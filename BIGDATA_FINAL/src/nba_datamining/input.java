@@ -1,7 +1,9 @@
 package nba_datamining;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.util.*;
 public class input {
 	public static void main(String[] args) throws Exception
@@ -15,11 +17,12 @@ public class input {
 		String n="";
 		int p=0,i=0,iend=0,k=0,tmp=0;
 		int time1,time2=720;
-		int[] a=new int[1000];
-		int[] d=new int[1000];
-		int[] b=new int[1000];
-		int[] c=new int[1000];
+		int[] attack=new int[1000];
+		int[] defend=new int[1000];
+		int[] attack1=new int[1000];
+		int[] defend1=new int[1000];
 		boolean t;
+		double average_attack,average_defend;
 		int center,keyword,sum=0;
 //		TableCell cell = new TableCell();
 		while((s=br.readLine())!=null) {
@@ -115,8 +118,8 @@ public class input {
 							+s.indexOf("Turnover")+s.indexOf("Offensive")
 							+s.indexOf("Violation by")+s.indexOf("Personal foul")
 							+s.indexOf("Shooting foul by")+s.indexOf("full timeout")+7;
-					if(keyword>center) {a[i]=p;d[i++]=0;}
-					else {a[i]=0;d[i++]=p;}
+					if(keyword>center) {attack[i]=p;defend[i++]=0;}
+					else {attack[i]=0;defend[i++]=p;}
 
 				}
 				iend=i;
@@ -125,15 +128,15 @@ public class input {
 		}
 		br.close();
 
-		for(TableCell x:cells) 
-			System.out.println(x.time+" "+x.awayEvent+" "+x.awayRecord+" "+x.score+" "+x.homeRecord+" "+x.homeEvent);
+		//for(TableCell x:cells) 
+		//	System.out.println(x.time+" "+x.awayEvent+" "+x.awayRecord+" "+x.score+" "+x.homeRecord+" "+x.homeEvent);
 
 		for(i=0;i<iend;i++)
 		{
-			if(a[i]==0)continue;
-			b[k]=a[i];
-			while(a[i+1]>0)
-			{b[k]+=a[i+1];
+			if(attack[i]==0)continue;
+			attack1[k]=attack[i];
+			while(attack[i+1]>0)
+			{attack1[k]+=attack[i+1];
 			i++;
 			}
 			k++;
@@ -141,27 +144,34 @@ public class input {
 		int kb=k;
 		for(i=0,k=0;i<iend;i++)
 		{
-			if(d[i]==0)continue;
-			c[k]=d[i];
-			while(d[i+1]>0)
-			{c[k]+=d[i+1];
+			if(defend[i]==0)continue;
+			defend1[k]=defend[i];
+			while(defend[i+1]>0)
+			{defend1[k]+=defend[i+1];
 			i++;
 			}
 			k++;
 		}
 		int kc=k;
 		for(i=0;i<kb;i++){
-			System.out.print(b[i]+" ");
-			sum+=b[i];
-			if(i%40==39) System.out.println("");
+			//System.out.print(attack1[i]+" ");
+			sum+=attack1[i];
+			//if(i%40==39) System.out.println("");
 		}
-		System.out.println("\n"+"home attack average time is "+sum/kb);
+		average_attack=Math.round(100*sum/kb)/100.0;
+		System.out.println("\n"+"home attack average time is "+average_attack);
 		sum=0;
 		for(i=0;i<kc;i++){
-			System.out.print(c[i]+" ");
-			sum+=c[i];
-			if(i%40==39) System.out.println("");
+			//System.out.print(defend1[i]+" ");
+			sum+=defend1[i];
+			//if(i%40==39) System.out.println("");
 		}
-		System.out.println("\n"+"away attack average time is "+sum/kc);  
+		average_defend=Math.round(100*sum/kc)/100.0;
+		System.out.print("\n"+"away attack average time is "+average_defend);  
+		FileWriter File_2 = new FileWriter("/Users/Tony/Desktop/NBA/output.txt");
+		BufferedWriter bw = new BufferedWriter(File_2);
+		bw.write("\n"+"home attack average time is "+average_attack);
+		bw.write("\n"+"away attack average time is "+average_defend);
+		bw.close();
 		}
 }
