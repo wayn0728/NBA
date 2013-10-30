@@ -5,15 +5,17 @@ import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 public class input {
 	public static void main(String[] args) throws Exception
 	{
 		
 		ArrayList<TableCell> cells = new ArrayList<TableCell>();
 		
-	    FileReader file1=new FileReader("/Users/Tony/Desktop/NBA/200010310ATL.html");
+	    FileReader file1=new FileReader("/Users/Tony/Desktop/NBA/200010310DAL.html");
 		BufferedReader br=new BufferedReader(file1);
-		String s,st1,st2,tmpS;
+		String s,st1,st2,tmpS,homeName="",awayName="";
 		String n="";
 		int p=0,i=0,iend=0,k=0,tmp=0;
 		int time1,time2=720;
@@ -25,8 +27,16 @@ public class input {
 		double average_attack,average_defend;
 		int center,keyword,sum=0;
 //		TableCell cell = new TableCell();
+		int flag=0;
 		while((s=br.readLine())!=null) {
 			if(s.compareTo(n)==0) 	continue;
+			Pattern pattern = Pattern.compile("<td align=\"left\" ><a href=\"/teams/([A-Z][A-Z][A-Z])");
+	    	Matcher matcher = pattern.matcher(s);
+	    	if(matcher.find()){
+	    		//System.out.print(matcher.group(1) + "\t");
+	    		if(flag==0) {awayName=matcher.group(1);flag=1;}
+	    		if(flag==1) homeName=matcher.group(1);
+	    	}
 			if(s.matches("<table class=\"no_highlight stats_table\">")) {break;}
 		}
 		while((s=br.readLine())!=null) {
@@ -159,7 +169,7 @@ public class input {
 			//if(i%40==39) System.out.println("");
 		}
 		average_attack=Math.round(100*sum/kb)/100.0;
-		System.out.println("\n"+"home attack average time is "+average_attack);
+		System.out.println("\n"+homeName+" home attack average time is "+average_attack);
 		sum=0;
 		for(i=0;i<kc;i++){
 			//System.out.print(defend1[i]+" ");
@@ -167,11 +177,11 @@ public class input {
 			//if(i%40==39) System.out.println("");
 		}
 		average_defend=Math.round(100*sum/kc)/100.0;
-		System.out.print("\n"+"away attack average time is "+average_defend);  
+		System.out.print("\n"+awayName+" away attack average time is "+average_defend);  
 		FileWriter File_2 = new FileWriter("/Users/Tony/Desktop/NBA/output.txt");
 		BufferedWriter bw = new BufferedWriter(File_2);
-		bw.write("\n"+"home attack average time is "+average_attack);
-		bw.write("\n"+"away attack average time is "+average_defend);
+		bw.write("\n"+homeName+" home attack average time is "+average_attack);
+		bw.write("\n"+awayName+" away attack average time is "+average_defend);
 		bw.close();
 		}
 }
