@@ -22,17 +22,18 @@ public class input {
 	{
 		final long startTime = System.currentTimeMillis();
 		ArrayList<TableCell> cells = new ArrayList<TableCell>();
-		FileWriter File_2 = new FileWriter("/Users/Tony/Desktop/output.txt");
+		FileWriter File_2 = new FileWriter("/Users/Tony/Desktop/2013.txt");
 		BufferedWriter bw = new BufferedWriter(File_2);
 		
-		File folder = new File("/Users/Tony/Desktop/NBA");
+		File folder = new File("/Users/Tony/Desktop/raw1");
 		File[] listOfFiles = folder.listFiles();
 		int file_num=1;
 		for (File file : listOfFiles) {
 			if (file.isFile()) {
 				String sttr=file.getName();
-				if(sttr.matches("[0-9]{9}.*[html]")){
-					FileReader file1=new FileReader("/Users/Tony/Desktop/NBA/"+sttr);
+				if(sttr.matches("[2][0][1][3].*[html]")){
+					//System.out.println(sttr);
+					FileReader file1=new FileReader("/Users/Tony/Desktop/raw1/"+sttr);
 					BufferedReader br=new BufferedReader(file1);
 
 					String s,st1,st2,tmpS,n="";
@@ -68,6 +69,8 @@ public class input {
 							if(s.indexOf("Jump ball")>0)  continue;
 							if(s.indexOf("overtime")>0)  continue;
 							if(s.indexOf("quarter")>0)  continue;
+							if(s.indexOf("full timeout")>0)  continue;
+							if(s.indexOf("/td",s.indexOf("/td")+2)==-1) continue;
 							tmp=s.indexOf("</td>");
 							tmpS=s.substring(s.indexOf("<td")+4,tmp);
 							if(tmpS.compareTo("&nbsp;")==0) tmpS="";
@@ -211,10 +214,10 @@ public class input {
 		int ki,file_num_max=file_num;
 		for(ki=1;ki<file_num_max;ki++)
 		{
-			System.out.print(ki+"\n"+homeName[ki]+" home attck time "+average_attack[ki]+" defend time "+average_defend[ki]);
-			bw.write(ki+"\n"+homeName[ki]+" home attck time "+average_attack[ki]+" defend time "+average_defend[ki]);
-			System.out.println("\n"+awayName[ki]+" away attack time "+average_defend[ki]+" defend time "+average_attack[ki]); 
-			bw.write("\n"+awayName[ki]+" away attack time "+average_defend[ki]+" defend time "+average_attack[ki]); 
+			System.out.print(ki+"\n"+homeName[ki]+" home attack time "+average_attack[ki]+" defend time "+average_defend[ki]);
+			bw.write(ki+"\n"+homeName[ki]+" home attack time "+average_attack[ki]+" defend time "+average_defend[ki]);
+			System.out.print("\n"+awayName[ki]+" away attack time "+average_defend[ki]+" defend time "+average_attack[ki]+"\n"); 
+			bw.write("\n"+awayName[ki]+" away attack time "+average_defend[ki]+" defend time "+average_attack[ki]+"\n"); 
 
 		}	
 				
