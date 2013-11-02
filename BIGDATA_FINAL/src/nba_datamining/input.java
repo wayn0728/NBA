@@ -22,18 +22,37 @@ public class input {
 	{
 		final long startTime = System.currentTimeMillis();
 		ArrayList<TableCell> cells = new ArrayList<TableCell>();
-		FileWriter File_2 = new FileWriter("/Users/Tony/Desktop/2013.txt");
+		
+		ArrayList<String> stringList = new ArrayList<String>(); 
+		FileReader File_3 = new FileReader("gameInfo.csv");
+		BufferedReader br_3= new BufferedReader(File_3);
+		String sInfo;
+
+		while((sInfo=br_3.readLine())!=null) {
+			if(sInfo.indexOf("Playoffs")>0)
+				stringList.add(sInfo.substring(0,11));
+		}
+		br_3.close();
+		
+		FileWriter File_2 = new FileWriter("2013.txt");
 		BufferedWriter bw = new BufferedWriter(File_2);
 		
-		File folder = new File("/Users/Tony/Desktop/raw1");
+		File folder = new File("raw1/");
 		File[] listOfFiles = folder.listFiles();
 		int file_num=1;
+		String[] str=new String[10000];
+		int Flag=0;
 		for (File file : listOfFiles) {
 			if (file.isFile()) {
 				String sttr=file.getName();
+				
 				if(sttr.matches("[2][0][1][3].*[html]")){
+					String str1=sttr.substring(0,8)+sttr.substring(9,12);
+					for(String x:stringList)
+						if(str1.compareTo(x)==0) {Flag=1;break;}
+					if(Flag==1) {Flag=0;continue;}
 					//System.out.println(sttr);
-					FileReader file1=new FileReader("/Users/Tony/Desktop/raw1/"+sttr);
+					FileReader file1=new FileReader("raw1/"+sttr);
 					BufferedReader br=new BufferedReader(file1);
 
 					String s,st1,st2,tmpS,n="";
@@ -145,13 +164,15 @@ public class input {
 							if(p>0)
 							{
 								center=s.indexOf("/td",s.indexOf("/td",s.indexOf("/td")+1)+1);
-								keyword=s.indexOf("misses 2-pt")+s.indexOf("makes 2-pt")
+								keyword=s.indexOf("misses")+s.indexOf("makes")
 										+s.indexOf("Turnover")+s.indexOf("Offensive")
-										+s.indexOf("Violation by")+s.indexOf("Personal foul")
-										+s.indexOf("Shooting foul by")+s.indexOf("full timeout")+7;
-								if(keyword>center) {attack[i]=p;defend[i++]=0;}
-								else {attack[i]=0;defend[i++]=p;}
-
+							            +s.indexOf("Violation by")+s.indexOf("Personal foul")+s.indexOf("Defensive")
+										+s.indexOf("Shooting foul by")+s.indexOf("full timeout")+8;
+								if(keyword>center) {attack[i]=p;defend[i]=0;}
+								else {attack[i]=0;defend[i]=p;}
+								//if(attack[i]!=0) System.out.println(cell.time+" "+attack[i]);
+								//else System.out.println(cell.time+"            "+defend[i]);
+                                i++;
 							}
 							iend=i;
 							cells.add(cell);
@@ -183,7 +204,7 @@ public class input {
 						}
 						k++;
 					}
-					int kc=k;
+					int kc=k;sum=0;
 					for(i=0;i<kb;i++){
 						//System.out.print(attack1[i]+" ");
 						sum+=attack1[i];
@@ -204,7 +225,7 @@ public class input {
 					//bw.write(homeName+" home attack average time is "+average_attack);
 					//bw.write("\n"+awayName+" away attack average time is "+average_defend+"\n");
 					
-
+                    str[file_num]=sttr.substring(0,8)+sttr.substring(9,12);
 					file_num++;
 				}
 				
@@ -214,9 +235,9 @@ public class input {
 		int ki,file_num_max=file_num;
 		for(ki=1;ki<file_num_max;ki++)
 		{
-			System.out.print(ki+"\n"+homeName[ki]+" home attack time "+average_attack[ki]+" defend time "+average_defend[ki]);
-			bw.write(ki+"\n"+homeName[ki]+" home attack time "+average_attack[ki]+" defend time "+average_defend[ki]);
-			System.out.print("\n"+awayName[ki]+" away attack time "+average_defend[ki]+" defend time "+average_attack[ki]+"\n"); 
+			//System.out.print(ki+"\n"+homeName[ki]+" home attack time "+average_attack[ki]+" defend time "+average_defend[ki]);
+			bw.write(str[ki]+"\n"+homeName[ki]+" home attack time "+average_attack[ki]+" defend time "+average_defend[ki]);
+			//System.out.print("\n"+awayName[ki]+" away attack time "+average_defend[ki]+" defend time "+average_attack[ki]+"\n"); 
 			bw.write("\n"+awayName[ki]+" away attack time "+average_defend[ki]+" defend time "+average_attack[ki]+"\n"); 
 
 		}	
