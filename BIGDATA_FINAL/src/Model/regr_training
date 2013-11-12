@@ -9,7 +9,7 @@ import libsvm.*;
 import Jama.Matrix;
 
  /*
-  * Big Data Final Project.
+  * Big Data Final Project. Version1.0.0
   * Qi Cai,
   * Jiawei Dong,
   * Jing Liu,
