@@ -1,0 +1,292 @@
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
+
+import libsvm.*;
+import Jama.Matrix;
+
+ /*
+  * Big Data Final Project.
+  * Qi Cai,
+  * Jiawei Dong,
+  * Jing Liu,
+  * Shaoxin Xu
+  * 
+  */
+//Linear Regression
+public class regr_training{
+//	static Matrix X;
+//	static Matrix Y;
+//	static Matrix theta;
+//	
+//	static int N;//number of input entries.
+//	static int part_nums;//partition number.
+//	
+//	static double lambda;//lambda for ridge regression.
+//	public static void cross_validation_linRegr(){
+//		//k fold
+//		Matrix temp_X;
+//		Matrix temp_Y;
+//		Matrix temp_Z;
+//		double min_MSE =10;
+//		int begin_index;
+//		int end_index;
+//		
+//		int k =10;
+//		N = Y.getRowDimension();
+//		
+//		part_nums=N/k;
+//		
+//		for (int i = 0; i+1< N; i ++){
+//			double temp;
+//			begin_index = i*part_nums;
+//			end_index = (i+1)*part_nums;
+//			temp_X = X.getMatrix(begin_index, end_index,0,X.getColumnDimension()-1);
+//			temp_Y = Y.getMatrix(begin_index, end_index,0,Y.getColumnDimension()-1);
+//			theta = impLinRegr(temp_X,temp_Y);		
+//			temp = MSE_evaluation(temp_Y,theta,temp_X);
+//			if(temp < min_MSE){
+//				min_MSE = temp;
+//				temp_Z = theta;
+//			}		
+//		}
+//	}
+//	
+//	
+//	public static void readData(double [][] inputX, double[][] inputY){
+//		X=new Matrix(inputX);
+//		Y=new Matrix(inputY);
+//	}
+//	
+//	//Linear Regression.
+//	public static Matrix impLinRegr(Matrix temp_X, Matrix temp_Y){
+//	
+//		//(x'x)^x'y
+//		theta = ((temp_X.transpose())
+//				.times(temp_X))
+//				.inverse()
+//				.times(temp_X.transpose())
+//				.times(temp_Y);
+//		
+//		return theta;	
+//	}
+//	
+//	//Ridge Linear Regression.
+//	//need to set lambda before to implement.
+//	public static Matrix impRidgeRegr(Matrix temp_X, Matrix temp_Y){
+//		int x_row = temp_X.getRowDimension();
+//		Matrix indentity = Matrix.identity(x_row, x_row);
+//		
+//		theta = ((((temp_X.transpose())
+//				.times(temp_X)
+//				.plus(indentity.times(lambda)))
+//				.inverse())
+//				.times(temp_X.transpose()))
+//				.times(temp_Y)
+//				;
+//		return theta;	
+//	}
+//	
+//	
+///*	//need to set lambda before to implement.
+//	public static Matrix impRidgeKernelRegr(Matrix temp_X, Matrix temp_Y){
+//		//Computes alpha = (K + lambda I)^-1 Y. where K is a kernel function.
+//		Matrix Kernel=null;
+//		int x_row = temp_X.getRowDimension();
+//		Matrix indentity = Matrix.identity(x_row, x_row);
+//		
+//		
+//		//Gaussian kernel
+//		
+//		//DoubleMatrix d = Geometry.pairwiseSquaredDistances(X.transpose(), Z.transpose());
+//		return exp(d.div(w).neg());
+//		
+//		return (Kernel
+//				.plus(indentity.times(lambda)))
+//				.inverse();
+//	}
+//	
+//	public static double gaussinaKern(int w, Matrix temp_X, Matrix temp_Z){
+//		//temp_X and temp_Z are row vectors
+//		
+//		double dis = ((temp_X.transpose().minus(temp_Z.transpose()))).norm1();
+//		
+//		return Math.exp(-dis/w);
+//		
+//	}*/
+//	
+//	
+//	
+//	public static double MSE_evaluation(Matrix expY,Matrix theta,Matrix testX){
+//		
+//		Matrix A = expY.minus(testX.times(theta));
+//		int N = expY.getRowDimension();
+//		double result = (A.times(A.transpose()).get(0, 0))/N; 
+//		
+//		return result;
+//	}
+
+	
+	////////////////////////////////////////////////////////////libSVM////////////////////////////
+	
+//	public static void cross_validation_svr(){
+//		//k fold
+//		double[][] data = null;
+//		double[][] train;
+//		double[][] test;
+//		int part_nums;
+//		int nums_of_col = data[0].length;
+//		svm_model model;
+//		
+//		double min_MSE =10;
+//		int begin_index;
+//		int end_index;
+//		
+//		int k =10;		
+//		part_nums=data.length/k;
+//		train=new double[part_nums][nums_of_col];
+//		test=new double[data.length-part_nums][nums_of_col];
+//				
+//		
+//		 
+//		for (int i = 0; i+1< 10; i ++){
+//			double temp;
+//			begin_index = i*part_nums;
+//			end_index = (i+1)*part_nums;
+//			
+//			System.arraycopy(data,begin_index,train,0,part_nums-1);
+//			model = svrTrain(train);
+//			
+//			//svm.svm_predict(model, arg1);
+//			
+////			theta = impLinRegr(temp_X,temp_Y);		
+////			temp = MSE_evaluation(temp_Y,theta,temp_X);
+////			if(temp < min_MSE){
+////				min_MSE = temp;
+////				temp_Z = theta;
+////			}		
+//		}
+//	}
+	
+	
+	//set parameters for training data.
+	public static svm_model svrTrain(double[][] train){
+		 svm_problem prob = new svm_problem();
+		 double[] predict_result = new double[train.length];
+		 
+		 int num_of_data = train.length;
+		 int num_of_features= train[0].length-1;///total length - 1(y);
+		 svm_parameter param = new svm_parameter();
+		 param.C = 1;
+		 param.degree =3;
+		 param.cache_size = 400;
+		 param.svm_type = 4;
+		 param.kernel_type=2;
+		 param.gamma = 109;//need to set the gamma.
+		 param.nr_weight = 0;
+		 param.nu = 0.1;
+		 //param.p = 0.1;
+		 param.weight_label = new int[0];
+		 param.weight = new double[0];
+		 
+		 prob.y = new double[num_of_data];
+		 prob.l = num_of_data;
+		 prob.x = new svm_node[num_of_data][]; 
+		 
+		 for (int i = 0; i < num_of_data; i++){ 
+			 prob.y[i] = train[i][0];
+			 prob.x[i] = new svm_node[num_of_features];
+			 for(int j =1; j< num_of_features+1;j++){
+				 svm_node node = new svm_node();
+		         node.index = j;
+		         node.value = train[i][j];
+				 prob.x[i][j-1]=node;
+			 }
+		 }
+		 svm.svm_cross_validation(prob, param, 2, predict_result);
+	
+
+		 
+//		 double sum = 0 ;
+//		 for(int i = 0; i < predict_result.length; i++){
+//			 System.out.print("Predict result: "+100*predict_result[i]+ " "+100*prob.y[i]+".\n");
+//			 sum += (prob.y[i] - predict_result[i]);
+//		 }
+		 System.out.print("\nResult: "+Mean_Square_Error(prob.y,predict_result)+ ".\n");
+		 
+		// return svm.svm_train(prob, param);		 
+		 return svm.svm_train(prob, param);
+	}
+	
+	public static double Mean_Square_Error(double[] expResult,double[] predResult){
+		double sum = 0;
+		 for(int i = 0; i < expResult.length; i++){
+			 System.out.print("Predict result: "+100*expResult[i]+ " "+100*predResult[i]+".\n");
+			 sum += (predResult[i] - expResult[i])*(predResult[i] - expResult[i]);
+		 }
+		 return sum/expResult.length;
+	}
+	
+
+	/*/
+	 * 
+	 * Program entry point: read train.txt file from local. And call function svrTrain();
+	 *  
+	 */
+	
+	public static void main(String[] args){
+		Map<String, Integer> teams = new HashMap<String, Integer>();
+		teams.put("ATL", 1);	teams.put("GSW", 10);	teams.put("NOH", 19);	teams.put("TOR", 28);
+		teams.put("BRK", 2);	teams.put("HOU", 11);	teams.put("NYK", 20);	teams.put("UTA", 28);
+		teams.put("BOS", 3);	teams.put("IND", 12);	teams.put("OKC", 21);	teams.put("WAS", 28);
+		teams.put("CHA", 4);	teams.put("LAC", 13);	teams.put("ORL", 22);
+		teams.put("CHI", 5);	teams.put("LAL", 14);	teams.put("PHI", 23);
+		teams.put("CLE", 6);	teams.put("MEM", 15);	teams.put("PHO", 24);
+		teams.put("DAL", 7);	teams.put("MIA", 16);	teams.put("POR", 25);
+		teams.put("DEN", 8);	teams.put("MIL", 17);	teams.put("SAC", 26);
+		teams.put("DET", 9);	teams.put("MIN", 18);	teams.put("SAS", 27);
+		
+		double[][] trainData = new double[761][11]; ///test Array.
+		String file = "/home/shao/bigData/Final_Project/src/train";
+		BufferedReader br;
+		try {
+			br = new BufferedReader(new FileReader(file));
+			String line;
+			String[] input_Parameters;
+			int num_of_data =0;
+			while ((line = br.readLine()) != null) {
+				
+				input_Parameters = line.split(" ");
+				trainData[num_of_data][0] = Double.parseDouble(input_Parameters[input_Parameters.length-1])/100;
+				for(int i = 1; i<input_Parameters.length-1; i ++)	{
+					if(i==1 || i ==6){
+						trainData[num_of_data][i] = teams.get(input_Parameters[i])/100;
+						
+					}
+					else{
+						trainData[num_of_data][i] = Double.parseDouble(input_Parameters[i])/100;
+					}
+					
+				}
+				System.out.print("Entry "+num_of_data+" success.\n");
+				num_of_data++;
+		} 
+			System.out.print("Finish.\n");
+			br.close();
+			}catch (Exception e) {
+				
+			e.fillInStackTrace();
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		svrTrain(trainData);
+		 //svm.svm_predict(arg0, arg1);
+		
+	}
+	
+	
+	
+}
