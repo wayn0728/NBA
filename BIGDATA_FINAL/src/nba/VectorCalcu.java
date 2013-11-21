@@ -18,7 +18,7 @@ public class VectorCalcu {
 
 	public void cal() throws IOException {
 		File folder = new File(
-				"/Users/jingliu/Documents/Study/RealTimeBigData/ProjectInput");
+				"mid/");
 		File[] listOfFiles = folder.listFiles();
 		Map<String, String> actPace = new HashMap<String, String>();
 		for (File file : listOfFiles) {
@@ -26,7 +26,7 @@ public class VectorCalcu {
 			String sttr = file.getName();
 			if (sttr.contains(".csv")) {
 				FileReader file1 = new FileReader(
-						"/Users/jingliu/Documents/Study/RealTimeBigData/ProjectInput/"
+						"mid/"
 								+ sttr);
 				BufferedReader br = new BufferedReader(file1);
 
@@ -50,13 +50,13 @@ public class VectorCalcu {
 				String sttr = file.getName();
         System.out.println(sttr);
 				FileReader file1 = new FileReader(
-						"/Users/jingliu/Documents/Study/RealTimeBigData/ProjectInput/"
+						"mid/"
 								+ sttr);
 				BufferedReader br = new BufferedReader(file1);
 				// List<String> resultList = new ArrayList<String>();
 				// Map<String, String> result = new HashMap<String, String>();
 				output = new PrintWriter(new FileWriter(
-						"/Users/jingliu/Documents/Study/RealTimeBigData/result/" + sttr));
+						"result/" + sttr));
 				// Map<String, String> actPace= new HashMap<String, String>();
 
 				if (sttr.matches("[0-9]{4}.*[txt]")) {
