@@ -1,0 +1,3693 @@
+20090102BOS
+BOS home attack time 17.04 defend time 16.13
+WAS away attack time 16.13 defend time 17.04
+20090102CLE
+CLE home attack time 17.04 defend time 14.07
+CHI away attack time 14.07 defend time 17.04
+20090102DAL
+DAL home attack time 16.47 defend time 16.7
+PHI away attack time 16.7 defend time 16.47
+20090102DET
+DET home attack time 15.35 defend time 14.98
+SAC away attack time 14.98 defend time 15.35
+20090102LAL
+LAL home attack time 14.12 defend time 15.07
+UTA away attack time 15.07 defend time 14.12
+20090102MEM
+MEM home attack time 16.52 defend time 16.05
+SAS away attack time 16.05 defend time 16.52
+20090102MIL
+MIL home attack time 14.3 defend time 16.34
+CHA away attack time 16.34 defend time 14.3
+20090102MIN
+MIN home attack time 14.79 defend time 13.29
+GSW away attack time 13.29 defend time 14.79
+20090102NJN
+NJN home attack time 16.59 defend time 16.07
+ATL away attack time 16.07 defend time 16.59
+20090102NYK
+NYK home attack time 14.51 defend time 14.17
+IND away attack time 14.17 defend time 14.51
+20090102OKC
+OKC home attack time 15.22 defend time 14.89
+DEN away attack time 14.89 defend time 15.22
+20090102ORL
+ORL home attack time 15.97 defend time 17.63
+MIA away attack time 17.63 defend time 15.97
+20090102PHO
+PHO home attack time 14.48 defend time 17.14
+LAC away attack time 17.14 defend time 14.48
+20090102POR
+POR home attack time 18.16 defend time 18.02
+NOH away attack time 18.02 defend time 18.16
+20090102TOR
+TOR home attack time 15.55 defend time 16.29
+HOU away attack time 16.29 defend time 15.55
+20090103ATL
+ATL home attack time 15.93 defend time 18.19
+HOU away attack time 18.19 defend time 15.93
+20090103CHA
+CHA home attack time 17.08 defend time 15.22
+MIL away attack time 15.22 defend time 17.08
+20090103CHI
+CHI home attack time 14.27 defend time 15.68
+MIN away attack time 15.68 defend time 14.27
+20090103DEN
+DEN home attack time 15.54 defend time 16.97
+NOH away attack time 16.97 defend time 15.54
+20090103IND
+IND home attack time 12.7 defend time 15.91
+SAC away attack time 15.91 defend time 12.7
+20090103MIA
+MIA home attack time 15.54 defend time 18.62
+NJN away attack time 18.62 defend time 15.54
+20090103SAS
+SAS home attack time 17.96 defend time 16.24
+PHI away attack time 16.24 defend time 17.96
+20090104LAC
+LAC home attack time 16.27 defend time 17.55
+DET away attack time 17.55 defend time 16.27
+20090104LAL
+LAL home attack time 15.2 defend time 18.38
+POR away attack time 18.38 defend time 15.2
+20090104MEM
+MEM home attack time 18.11 defend time 17.51
+DAL away attack time 17.51 defend time 18.11
+20090104NYK
+NYK home attack time 14.67 defend time 17.1
+BOS away attack time 17.1 defend time 14.67
+20090104TOR
+TOR home attack time 14.64 defend time 15.93
+ORL away attack time 15.93 defend time 14.64
+20090104WAS
+WAS home attack time 16.78 defend time 16.67
+CLE away attack time 16.67 defend time 16.78
+20090105DEN
+DEN home attack time 13.86 defend time 13.77
+IND away attack time 13.77 defend time 13.86
+20090105MIA
+MIA home attack time 16.25 defend time 17.79
+SAS away attack time 17.79 defend time 16.25
+20090105MIL
+MIL home attack time 15.73 defend time 16.18
+TOR away attack time 16.18 defend time 15.73
+20090105NJN
+NJN home attack time 15.7 defend time 15.52
+SAC away attack time 15.52 defend time 15.7
+20090105UTA
+UTA home attack time 15.42 defend time 13.8
+GSW away attack time 13.8 defend time 15.42
+20090106CHA
+CHA home attack time 15.96 defend time 16.05
+BOS away attack time 16.05 defend time 15.96
+20090106CHI
+CHI home attack time 15.96 defend time 14.53
+SAC away attack time 14.53 defend time 15.96
+20090106DAL
+DAL home attack time 15.17 defend time 16.32
+LAC away attack time 16.32 defend time 15.17
+20090106LAL
+LAL home attack time 14.35 defend time 16.36
+NOH away attack time 16.36 defend time 14.35
+20090106MEM
+MEM home attack time 16.73 defend time 17.26
+MIN away attack time 17.26 defend time 16.73
+20090106OKC
+OKC home attack time 14.54 defend time 14.05
+NYK away attack time 14.05 defend time 14.54
+20090106ORL
+ORL home attack time 14.23 defend time 17.26
+WAS away attack time 17.26 defend time 14.23
+20090106PHI
+PHI home attack time 15.56 defend time 15.65
+HOU away attack time 15.65 defend time 15.56
+20090107ATL
+ATL home attack time 12.94 defend time 16.54
+ORL away attack time 16.54 defend time 12.94
+20090107BOS
+BOS home attack time 16.85 defend time 17.72
+HOU away attack time 17.72 defend time 16.85
+20090107CLE
+CLE home attack time 16.42 defend time 16.29
+CHA away attack time 16.29 defend time 16.42
+20090107DEN
+DEN home attack time 15.23 defend time 15.67
+MIA away attack time 15.67 defend time 15.23
+20090107GSW
+GSW home attack time 13.06 defend time 15.21
+LAL away attack time 15.21 defend time 13.06
+20090107MIL
+MIL home attack time 16.34 defend time 16.25
+PHI away attack time 16.25 defend time 16.34
+20090107MIN
+MIN home attack time 14.54 defend time 14.32
+OKC away attack time 14.32 defend time 14.54
+20090107NJN
+NJN home attack time 15.21 defend time 15.59
+MEM away attack time 15.59 defend time 15.21
+20090107PHO
+PHO home attack time 13.55 defend time 14.69
+IND away attack time 14.69 defend time 13.55
+20090107POR
+POR home attack time 16.07 defend time 20.05
+DET away attack time 20.05 defend time 16.07
+20090107UTA
+UTA home attack time 16.12 defend time 16.6
+NOH away attack time 16.6 defend time 16.12
+20090107WAS
+WAS home attack time 16.48 defend time 16.16
+TOR away attack time 16.16 defend time 16.48
+20090108DAL
+DAL home attack time 16.03 defend time 14.46
+NYK away attack time 14.46 defend time 16.03
+20090108SAS
+SAS home attack time 16.17 defend time 17.46
+LAC away attack time 17.46 defend time 16.17
+20090109CHI
+CHI home attack time 15.76 defend time 16.24
+WAS away attack time 16.24 defend time 15.76
+20090109CLE
+CLE home attack time 17.26 defend time 15.85
+BOS away attack time 15.85 defend time 17.26
+20090109DEN
+DEN home attack time 15.4 defend time 17.46
+DET away attack time 17.46 defend time 15.4
+20090109LAL
+LAL home attack time 15.11 defend time 14.59
+IND away attack time 14.59 defend time 15.11
+20090109MIL
+MIL home attack time 16.62 defend time 17.62
+NJN away attack time 17.62 defend time 16.62
+20090109NOH
+NOH home attack time 16.2 defend time 17.45
+LAC away attack time 17.45 defend time 16.2
+20090109OKC
+OKC home attack time 15.05 defend time 15.73
+HOU away attack time 15.73 defend time 15.05
+20090109ORL
+ORL home attack time 15.85 defend time 15.51
+ATL away attack time 15.51 defend time 15.85
+20090109PHI
+PHI home attack time 16.25 defend time 17.93
+CHA away attack time 17.93 defend time 16.25
+20090109PHO
+PHO home attack time 15.23 defend time 16.59
+DAL away attack time 16.59 defend time 15.23
+20090109SAC
+SAC home attack time 14.2 defend time 14.75
+MIA away attack time 14.75 defend time 14.2
+20090109TOR
+TOR home attack time 15.3 defend time 16.43
+MEM away attack time 16.43 defend time 15.3
+20090110CHI
+CHI home attack time 14.7 defend time 16.43
+OKC away attack time 16.43 defend time 14.7
+20090110HOU
+HOU home attack time 18.23 defend time 13.62
+NYK away attack time 13.62 defend time 18.23
+20090110MIN
+MIN home attack time 16.57 defend time 15.04
+MIL away attack time 15.04 defend time 16.57
+20090110POR
+POR home attack time 17.6 defend time 15.05
+GSW away attack time 15.05 defend time 17.6
+20090110UTA
+UTA home attack time 15.92 defend time 18.6
+DET away attack time 18.6 defend time 15.92
+20090110WAS
+WAS home attack time 17.55 defend time 16.39
+CHA away attack time 16.39 defend time 17.55
+20090111ATL
+ATL home attack time 14.64 defend time 16.4
+PHI away attack time 16.4 defend time 14.64
+20090111GSW
+GSW home attack time 13.29 defend time 14.53
+IND away attack time 14.53 defend time 13.29
+20090111LAC
+LAC home attack time 13.57 defend time 15.27
+PHO away attack time 15.27 defend time 13.57
+20090111LAL
+LAL home attack time 15.08 defend time 15.96
+MIA away attack time 15.96 defend time 15.08
+20090111SAC
+SAC home attack time 14.75 defend time 16.07
+DAL away attack time 16.07 defend time 14.75
+20090111SAS
+SAS home attack time 15.84 defend time 16.49
+ORL away attack time 16.49 defend time 15.84
+20090111TOR
+TOR home attack time 15.53 defend time 16.2
+BOS away attack time 16.2 defend time 15.53
+20090112BOS
+BOS home attack time 16.03 defend time 16.77
+TOR away attack time 16.77 defend time 16.03
+20090112CHI
+CHI home attack time 13.81 defend time 17.3
+POR away attack time 17.3 defend time 13.81
+20090112NJN
+NJN home attack time 15.0 defend time 15.34
+OKC away attack time 15.34 defend time 15.0
+20090112NOH
+NOH home attack time 15.96 defend time 16.86
+NYK away attack time 16.86 defend time 15.96
+20090112UTA
+UTA home attack time 15.24 defend time 13.45
+IND away attack time 13.45 defend time 15.24
+20090112WAS
+WAS home attack time 17.82 defend time 17.45
+MIL away attack time 17.45 defend time 17.82
+20090113DEN
+DEN home attack time 14.01 defend time 16.29
+DAL away attack time 16.29 defend time 14.01
+20090113DET
+DET home attack time 18.5 defend time 16.0
+CHA away attack time 16.0 defend time 18.5
+20090113HOU
+HOU home attack time 17.98 defend time 15.17
+LAL away attack time 15.17 defend time 17.98
+20090113MEM
+MEM home attack time 14.73 defend time 17.82
+CLE away attack time 17.82 defend time 14.73
+20090113MIN
+MIN home attack time 16.47 defend time 15.89
+MIA away attack time 15.89 defend time 16.47
+20090113PHO
+PHO home attack time 15.84 defend time 15.26
+ATL away attack time 15.26 defend time 15.84
+20090113SAC
+SAC home attack time 14.71 defend time 14.71
+ORL away attack time 14.71 defend time 14.71
+20090114BOS
+BOS home attack time 15.01 defend time 16.34
+NJN away attack time 16.34 defend time 15.01
+20090114DAL
+DAL home attack time 16.53 defend time 16.89
+NOH away attack time 16.89 defend time 16.53
+20090114GSW
+GSW home attack time 14.11 defend time 17.23
+SAC away attack time 17.23 defend time 14.11
+20090114IND
+IND home attack time 13.68 defend time 17.47
+DET away attack time 17.47 defend time 13.68
+20090114LAC
+LAC home attack time 16.69 defend time 16.83
+ATL away attack time 16.83 defend time 16.69
+20090114MIL
+MIL home attack time 15.09 defend time 18.32
+MIA away attack time 18.32 defend time 15.09
+20090114NYK
+NYK home attack time 15.22 defend time 17.27
+WAS away attack time 17.27 defend time 15.22
+20090114OKC
+OKC home attack time 15.26 defend time 15.2
+UTA away attack time 15.2 defend time 15.26
+20090114PHI
+PHI home attack time 17.28 defend time 18.8
+POR away attack time 18.8 defend time 17.28
+20090114SAS
+SAS home attack time 16.49 defend time 16.79
+LAL away attack time 16.79 defend time 16.49
+20090114TOR
+TOR home attack time 15.69 defend time 17.67
+CHI away attack time 17.67 defend time 15.69
+20090115CHI
+CHI home attack time 16.24 defend time 17.53
+CLE away attack time 17.53 defend time 16.24
+20090115DEN
+DEN home attack time 13.62 defend time 15.8
+PHO away attack time 15.8 defend time 13.62
+20090115NJN
+NJN home attack time 15.92 defend time 17.5
+POR away attack time 17.5 defend time 15.92
+20090116CLE
+CLE home attack time 18.03 defend time 16.66
+NOH away attack time 16.66 defend time 18.03
+20090116GSW
+GSW home attack time 14.08 defend time 15.42
+ATL away attack time 15.42 defend time 14.08
+20090116IND
+IND home attack time 14.27 defend time 14.53
+TOR away attack time 14.53 defend time 14.27
+20090116LAL
+LAL home attack time 14.91 defend time 14.77
+ORL away attack time 14.77 defend time 14.91
+20090116MEM
+MEM home attack time 15.93 defend time 15.82
+UTA away attack time 15.82 defend time 15.93
+20090116OKC
+OKC home attack time 16.19 defend time 16.27
+DET away attack time 16.27 defend time 16.19
+20090116PHI
+PHI home attack time 15.48 defend time 16.57
+SAS away attack time 16.57 defend time 15.48
+20090116PHO
+PHO home attack time 14.97 defend time 16.33
+MIN away attack time 16.33 defend time 14.97
+20090116SAC
+SAC home attack time 14.38 defend time 15.04
+MIL away attack time 15.04 defend time 14.38
+20090116WAS
+WAS home attack time 17.98 defend time 15.51
+NYK away attack time 15.51 defend time 17.98
+20090117CHA
+CHA home attack time 16.27 defend time 17.64
+POR away attack time 17.64 defend time 16.27
+20090117CHI
+CHI home attack time 15.4 defend time 17.34
+SAS away attack time 17.34 defend time 15.4
+20090117DAL
+DAL home attack time 15.8 defend time 15.3
+UTA away attack time 15.3 defend time 15.8
+20090117DEN
+DEN home attack time 14.44 defend time 17.0
+ORL away attack time 17.0 defend time 14.44
+20090117DET
+DET home attack time 18.1 defend time 17.97
+NOH away attack time 17.97 defend time 18.1
+20090117HOU
+HOU home attack time 17.08 defend time 16.05
+MIA away attack time 16.05 defend time 17.08
+20090117LAC
+LAC home attack time 18.47 defend time 14.85
+MIL away attack time 14.85 defend time 18.47
+20090117NJN
+NJN home attack time 15.46 defend time 15.41
+BOS away attack time 15.41 defend time 15.46
+20090117NYK
+NYK home attack time 13.72 defend time 17.32
+PHI away attack time 17.32 defend time 13.72
+20090118OKC
+OKC home attack time 13.41 defend time 17.41
+MIA away attack time 17.41 defend time 13.41
+20090118TOR
+TOR home attack time 16.34 defend time 15.46
+PHO away attack time 15.46 defend time 16.34
+20090119ATL
+ATL home attack time 15.4 defend time 16.47
+TOR away attack time 16.47 defend time 15.4
+20090119BOS
+BOS home attack time 15.16 defend time 14.33
+PHO away attack time 14.33 defend time 15.16
+20090119CHA
+CHA home attack time 15.33 defend time 18.84
+SAS away attack time 18.84 defend time 15.33
+20090119GSW
+GSW home attack time 14.16 defend time 16.73
+WAS away attack time 16.73 defend time 14.16
+20090119HOU
+HOU home attack time 15.8 defend time 15.35
+DEN away attack time 15.35 defend time 15.8
+20090119LAC
+LAC home attack time 17.75 defend time 16.08
+MIN away attack time 16.08 defend time 17.75
+20090119LAL
+LAL home attack time 15.68 defend time 17.13
+CLE away attack time 17.13 defend time 15.68
+20090119MEM
+MEM home attack time 16.18 defend time 17.86
+DET away attack time 17.86 defend time 16.18
+20090119NOH
+NOH home attack time 16.98 defend time 14.64
+IND away attack time 14.64 defend time 16.98
+20090119NYK
+NYK home attack time 13.94 defend time 14.95
+CHI away attack time 14.95 defend time 13.94
+20090119PHI
+PHI home attack time 15.68 defend time 15.63
+DAL away attack time 15.63 defend time 15.68
+20090119POR
+POR home attack time 16.88 defend time 14.61
+MIL away attack time 14.61 defend time 16.88
+20090120CHI
+CHI home attack time 16.21 defend time 17.04
+ATL away attack time 17.04 defend time 16.21
+20090120DEN
+DEN home attack time 13.57 defend time 15.71
+SAC away attack time 15.71 defend time 13.57
+20090120SAS
+SAS home attack time 16.98 defend time 13.41
+IND away attack time 13.41 defend time 16.98
+20090120UTA
+UTA home attack time 15.74 defend time 15.23
+MIN away attack time 15.23 defend time 15.74
+20090121CHA
+CHA home attack time 15.93 defend time 15.59
+MEM away attack time 15.59 defend time 15.93
+20090121DET
+DET home attack time 17.36 defend time 16.73
+TOR away attack time 16.73 defend time 17.36
+20090121GSW
+GSW home attack time 13.51 defend time 16.16
+OKC away attack time 16.16 defend time 13.51
+20090121HOU
+HOU home attack time 16.37 defend time 16.27
+UTA away attack time 16.27 defend time 16.37
+20090121LAC
+LAC home attack time 16.91 defend time 16.53
+LAL away attack time 16.53 defend time 16.91
+20090121MIA
+MIA home attack time 15.13 defend time 17.03
+BOS away attack time 17.03 defend time 15.13
+20090121MIL
+MIL home attack time 14.4 defend time 16.26
+DAL away attack time 16.26 defend time 14.4
+20090121NOH
+NOH home attack time 16.55 defend time 16.1
+NJN away attack time 16.1 defend time 16.55
+20090121NYK
+NYK home attack time 12.85 defend time 14.39
+PHO away attack time 14.39 defend time 12.85
+20090121POR
+POR home attack time 16.53 defend time 17.95
+CLE away attack time 17.95 defend time 16.53
+20090121SAC
+SAC home attack time 12.96 defend time 17.34
+WAS away attack time 17.34 defend time 12.96
+20090122LAL
+LAL home attack time 14.47 defend time 18.11
+WAS away attack time 18.11 defend time 14.47
+20090122ORL
+ORL home attack time 16.5 defend time 18.25
+BOS away attack time 18.25 defend time 16.5
+20090123ATL
+ATL home attack time 14.69 defend time 15.81
+MIL away attack time 15.81 defend time 14.69
+20090123CHA
+CHA home attack time 15.58 defend time 15.67
+PHO away attack time 15.67 defend time 15.58
+20090123CHI
+CHI home attack time 15.07 defend time 15.39
+TOR away attack time 15.39 defend time 15.07
+20090123DET
+DET home attack time 17.05 defend time 16.64
+DAL away attack time 16.64 defend time 17.05
+20090123GSW
+GSW home attack time 13.25 defend time 16.8
+CLE away attack time 16.8 defend time 13.25
+20090123IND
+IND home attack time 13.29 defend time 15.37
+HOU away attack time 15.37 defend time 13.29
+20090123LAC
+LAC home attack time 17.71 defend time 15.32
+OKC away attack time 15.32 defend time 17.71
+20090123MIN
+MIN home attack time 16.62 defend time 17.83
+NOH away attack time 17.83 defend time 16.62
+20090123NYK
+NYK home attack time 14.29 defend time 18.13
+MEM away attack time 18.13 defend time 14.29
+20090123SAS
+SAS home attack time 16.8 defend time 16.55
+NJN away attack time 16.55 defend time 16.8
+20090124MEM
+MEM home attack time 15.65 defend time 17.88
+NJN away attack time 17.88 defend time 15.65
+20090124MIA
+MIA home attack time 17.22 defend time 14.7
+ORL away attack time 14.7 defend time 17.22
+20090124MIL
+MIL home attack time 15.64 defend time 16.29
+SAC away attack time 16.29 defend time 15.64
+20090124PHI
+PHI home attack time 16.85 defend time 14.68
+NYK away attack time 14.68 defend time 16.85
+20090124POR
+POR home attack time 15.25 defend time 17.17
+WAS away attack time 17.17 defend time 15.25
+20090124UTA
+UTA home attack time 16.54 defend time 16.85
+CLE away attack time 16.85 defend time 16.54
+20090125ATL
+ATL home attack time 14.14 defend time 15.47
+PHO away attack time 15.47 defend time 14.14
+20090125BOS
+BOS home attack time 16.78 defend time 14.09
+DAL away attack time 14.09 defend time 16.78
+20090125DEN
+DEN home attack time 14.71 defend time 16.14
+UTA away attack time 16.14 defend time 14.71
+20090125DET
+DET home attack time 16.69 defend time 18.63
+HOU away attack time 18.63 defend time 16.69
+20090125GSW
+GSW home attack time 12.84 defend time 16.16
+LAC away attack time 16.16 defend time 12.84
+20090125IND
+IND home attack time 14.48 defend time 17.04
+CHA away attack time 17.04 defend time 14.48
+20090125LAL
+LAL home attack time 13.89 defend time 16.05
+SAS away attack time 16.05 defend time 13.89
+20090125MIN
+MIN home attack time 16.23 defend time 15.33
+CHI away attack time 15.33 defend time 16.23
+20090125TOR
+TOR home attack time 15.68 defend time 15.68
+SAC away attack time 15.68 defend time 15.68
+20090126LAC
+LAC home attack time 18.38 defend time 16.64
+POR away attack time 16.64 defend time 18.38
+20090126MIA
+MIA home attack time 14.4 defend time 15.85
+ATL away attack time 15.85 defend time 14.4
+20090126MIL
+MIL home attack time 14.8 defend time 16.26
+MIN away attack time 16.26 defend time 14.8
+20090126NOH
+NOH home attack time 17.34 defend time 15.26
+PHI away attack time 15.26 defend time 17.34
+20090126NYK
+NYK home attack time 13.14 defend time 17.04
+HOU away attack time 17.04 defend time 13.14
+20090126OKC
+OKC home attack time 13.89 defend time 15.67
+NJN away attack time 15.67 defend time 13.89
+20090126WAS
+WAS home attack time 14.87 defend time 15.17
+PHO away attack time 15.17 defend time 14.87
+20090127CLE
+CLE home attack time 16.69 defend time 14.51
+SAC away attack time 14.51 defend time 16.69
+20090127LAL
+LAL home attack time 15.28 defend time 17.66
+CHA away attack time 17.66 defend time 15.28
+20090127MEM
+MEM home attack time 14.08 defend time 14.43
+DEN away attack time 14.43 defend time 14.08
+20090127ORL
+ORL home attack time 14.91 defend time 13.82
+IND away attack time 13.82 defend time 14.91
+20090127UTA
+UTA home attack time 16.81 defend time 15.95
+SAS away attack time 15.95 defend time 16.81
+20090128BOS
+BOS home attack time 15.14 defend time 16.45
+SAC away attack time 16.45 defend time 15.14
+20090128DAL
+DAL home attack time 14.44 defend time 13.58
+GSW away attack time 13.58 defend time 14.44
+20090128HOU
+HOU home attack time 15.1 defend time 15.46
+PHI away attack time 15.46 defend time 15.1
+20090128IND
+IND home attack time 14.69 defend time 13.22
+MIL away attack time 13.22 defend time 14.69
+20090128LAC
+LAC home attack time 15.96 defend time 17.23
+CHI away attack time 17.23 defend time 15.96
+20090128MIA
+MIA home attack time 15.23 defend time 16.59
+WAS away attack time 16.59 defend time 15.23
+20090128MIN
+MIN home attack time 17.26 defend time 17.07
+DET away attack time 17.07 defend time 17.26
+20090128NJN
+NJN home attack time 15.84 defend time 16.04
+TOR away attack time 16.04 defend time 15.84
+20090128NOH
+NOH home attack time 17.45 defend time 15.25
+DEN away attack time 15.25 defend time 17.45
+20090128NYK
+NYK home attack time 13.74 defend time 15.18
+ATL away attack time 15.18 defend time 13.74
+20090128OKC
+OKC home attack time 16.57 defend time 15.45
+MEM away attack time 15.45 defend time 16.57
+20090128POR
+POR home attack time 16.15 defend time 17.37
+CHA away attack time 17.37 defend time 16.15
+20090129ORL
+ORL home attack time 14.69 defend time 17.96
+CLE away attack time 17.96 defend time 14.69
+20090129PHO
+PHO home attack time 14.73 defend time 17.13
+SAS away attack time 17.13 defend time 14.73
+20090130ATL
+ATL home attack time 15.5 defend time 16.43
+NJN away attack time 16.43 defend time 15.5
+20090130CLE
+CLE home attack time 17.68 defend time 15.75
+LAC away attack time 15.75 defend time 17.68
+20090130DEN
+DEN home attack time 15.05 defend time 15.74
+CHA away attack time 15.74 defend time 15.05
+20090130DET
+DET home attack time 16.13 defend time 17.17
+BOS away attack time 17.17 defend time 16.13
+20090130IND
+IND home attack time 15.83 defend time 15.76
+MIA away attack time 15.76 defend time 15.83
+20090130MIN
+MIN home attack time 13.85 defend time 14.5
+LAL away attack time 14.5 defend time 13.85
+20090130NOH
+NOH home attack time 16.9 defend time 14.51
+GSW away attack time 14.51 defend time 16.9
+20090130PHI
+PHI home attack time 15.36 defend time 16.96
+WAS away attack time 16.96 defend time 15.36
+20090130SAC
+SAC home attack time 14.56 defend time 15.93
+CHI away attack time 15.93 defend time 14.56
+20090130TOR
+TOR home attack time 15.34 defend time 17.2
+MIL away attack time 17.2 defend time 15.34
+20090130UTA
+UTA home attack time 15.76 defend time 15.41
+OKC away attack time 15.41 defend time 15.76
+20090131HOU
+HOU home attack time 16.93 defend time 14.25
+GSW away attack time 14.25 defend time 16.93
+20090131IND
+IND home attack time 13.18 defend time 14.34
+NYK away attack time 14.34 defend time 13.18
+20090131MEM
+MEM home attack time 15.76 defend time 15.28
+LAL away attack time 15.28 defend time 15.76
+20090131MIA
+MIA home attack time 14.85 defend time 16.28
+DAL away attack time 16.28 defend time 14.85
+20090131MIL
+MIL home attack time 15.85 defend time 15.61
+ATL away attack time 15.61 defend time 15.85
+20090131PHI
+PHI home attack time 16.71 defend time 16.71
+NJN away attack time 16.71 defend time 16.71
+20090131PHO
+PHO home attack time 13.52 defend time 15.98
+CHI away attack time 15.98 defend time 13.52
+20090131POR
+POR home attack time 16.22 defend time 16.74
+UTA away attack time 16.74 defend time 16.22
+20090131SAS
+SAS home attack time 15.17 defend time 16.85
+NOH away attack time 16.85 defend time 15.17
+20090131WAS
+WAS home attack time 14.92 defend time 14.76
+LAC away attack time 14.76 defend time 14.92
+20090201BOS
+BOS home attack time 15.32 defend time 16.18
+MIN away attack time 16.18 defend time 15.32
+20090201DET
+DET home attack time 16.33 defend time 17.54
+CLE away attack time 17.54 defend time 16.33
+20090201SAC
+SAC home attack time 15.2 defend time 16.18
+OKC away attack time 16.18 defend time 15.2
+20090201TOR
+TOR home attack time 14.39 defend time 15.61
+ORL away attack time 15.61 defend time 14.39
+20090202GSW
+GSW home attack time 14.16 defend time 15.4
+SAS away attack time 15.4 defend time 14.16
+20090202MIA
+MIA home attack time 14.15 defend time 15.4
+LAC away attack time 15.4 defend time 14.15
+20090202NOH
+NOH home attack time 17.41 defend time 16.82
+POR away attack time 16.82 defend time 17.41
+20090202NYK
+NYK home attack time 14.05 defend time 14.15
+LAL away attack time 14.15 defend time 14.05
+20090202ORL
+ORL home attack time 14.82 defend time 15.88
+DAL away attack time 15.88 defend time 14.82
+20090202PHO
+PHO home attack time 13.83 defend time 14.69
+SAC away attack time 14.69 defend time 13.83
+20090202UTA
+UTA home attack time 17.01 defend time 17.06
+CHA away attack time 17.06 defend time 17.01
+20090202WAS
+WAS home attack time 15.24 defend time 16.79
+MEM away attack time 16.79 defend time 15.24
+20090203CLE
+CLE home attack time 19.08 defend time 15.78
+TOR away attack time 15.78 defend time 19.08
+20090203DEN
+DEN home attack time 13.78 defend time 16.08
+SAS away attack time 16.08 defend time 13.78
+20090203HOU
+HOU home attack time 17.33 defend time 12.87
+CHI away attack time 12.87 defend time 17.33
+20090203IND
+IND home attack time 12.85 defend time 16.11
+MIN away attack time 16.11 defend time 12.85
+20090203NJN
+NJN home attack time 17.85 defend time 15.83
+MIL away attack time 15.83 defend time 17.85
+20090203PHI
+PHI home attack time 15.27 defend time 16.79
+BOS away attack time 16.79 defend time 15.27
+20090204DAL
+DAL home attack time 15.2 defend time 16.49
+POR away attack time 16.49 defend time 15.2
+20090204DET
+DET home attack time 16.71 defend time 17.08
+MIA away attack time 17.08 defend time 16.71
+20090204GSW
+GSW home attack time 15.1 defend time 12.8
+PHO away attack time 12.8 defend time 15.1
+20090204MEM
+MEM home attack time 16.11 defend time 16.55
+HOU away attack time 16.55 defend time 16.11
+20090204MIN
+MIN home attack time 16.28 defend time 14.18
+ATL away attack time 14.18 defend time 16.28
+20090204NOH
+NOH home attack time 16.26 defend time 16.1
+CHI away attack time 16.1 defend time 16.26
+20090204NYK
+NYK home attack time 12.83 defend time 17.95
+CLE away attack time 17.95 defend time 12.83
+20090204OKC
+OKC home attack time 14.67 defend time 15.02
+DEN away attack time 15.02 defend time 14.67
+20090204ORL
+ORL home attack time 16.14 defend time 16.14
+LAC away attack time 16.14 defend time 16.14
+20090204TOR
+TOR home attack time 16.67 defend time 14.48
+LAL away attack time 14.48 defend time 16.67
+20090204WAS
+WAS home attack time 16.22 defend time 16.65
+NJN away attack time 16.65 defend time 16.22
+20090205BOS
+BOS home attack time 15.82 defend time 15.14
+LAL away attack time 15.14 defend time 15.82
+20090205PHI
+PHI home attack time 15.13 defend time 15.38
+IND away attack time 15.38 defend time 15.13
+20090205UTA
+UTA home attack time 15.61 defend time 14.2
+DAL away attack time 14.2 defend time 15.61
+20090206CHA
+CHA home attack time 16.69 defend time 16.35
+ATL away attack time 16.35 defend time 16.69
+20090206IND
+IND home attack time 14.12 defend time 15.02
+ORL away attack time 15.02 defend time 14.12
+20090206MEM
+MEM home attack time 14.61 defend time 16.24
+LAC away attack time 16.24 defend time 14.61
+20090206NOH
+NOH home attack time 17.58 defend time 16.04
+TOR away attack time 16.04 defend time 17.58
+20090206NYK
+NYK home attack time 13.67 defend time 15.78
+BOS away attack time 15.78 defend time 13.67
+20090206OKC
+OKC home attack time 15.97 defend time 14.75
+POR away attack time 14.75 defend time 15.97
+20090206PHO
+PHO home attack time 13.11 defend time 14.45
+GSW away attack time 14.45 defend time 13.11
+20090206SAC
+SAC home attack time 13.95 defend time 16.11
+UTA away attack time 16.11 defend time 13.95
+20090206WAS
+WAS home attack time 15.4 defend time 13.58
+DEN away attack time 13.58 defend time 15.4
+20090207ATL
+ATL home attack time 14.67 defend time 16.95
+LAC away attack time 16.95 defend time 14.67
+20090207DAL
+DAL home attack time 15.57 defend time 15.42
+CHI away attack time 15.42 defend time 15.57
+20090207HOU
+HOU home attack time 14.71 defend time 15.48
+MIN away attack time 15.48 defend time 14.71
+20090207MEM
+MEM home attack time 17.35 defend time 15.2
+TOR away attack time 15.2 defend time 17.35
+20090207MIL
+MIL home attack time 14.86 defend time 17.27
+DET away attack time 17.27 defend time 14.86
+20090207NJN
+NJN home attack time 14.5 defend time 16.09
+DEN away attack time 16.09 defend time 14.5
+20090207PHI
+PHI home attack time 15.46 defend time 16.65
+MIA away attack time 16.65 defend time 15.46
+20090208BOS
+BOS home attack time 15.86 defend time 16.4
+SAS away attack time 16.4 defend time 15.86
+20090208CLE
+CLE home attack time 17.93 defend time 15.77
+LAL away attack time 15.77 defend time 17.93
+20090208DET
+DET home attack time 16.72 defend time 13.89
+PHO away attack time 13.89 defend time 16.72
+20090208GSW
+GSW home attack time 13.33 defend time 17.15
+UTA away attack time 17.15 defend time 13.33
+20090208MIA
+MIA home attack time 17.08 defend time 17.71
+CHA away attack time 17.71 defend time 17.08
+20090208NOH
+NOH home attack time 16.01 defend time 17.18
+MIN away attack time 17.18 defend time 16.01
+20090208OKC
+OKC home attack time 15.9 defend time 15.26
+SAC away attack time 15.26 defend time 15.9
+20090208ORL
+ORL home attack time 14.21 defend time 17.38
+NJN away attack time 17.38 defend time 14.21
+20090208POR
+POR home attack time 15.87 defend time 16.0
+NYK away attack time 16.0 defend time 15.87
+20090208WAS
+WAS home attack time 16.48 defend time 14.98
+IND away attack time 14.98 defend time 16.48
+20090209CHA
+CHA home attack time 16.98 defend time 15.98
+LAC away attack time 15.98 defend time 16.98
+20090209MEM
+MEM home attack time 15.67 defend time 16.7
+NOH away attack time 16.7 defend time 15.67
+20090209MIL
+MIL home attack time 13.96 defend time 15.63
+HOU away attack time 15.63 defend time 13.96
+20090209PHI
+PHI home attack time 15.86 defend time 14.95
+PHO away attack time 14.95 defend time 15.86
+20090210ATL
+ATL home attack time 15.7 defend time 15.62
+WAS away attack time 15.62 defend time 15.7
+20090210CHI
+CHI home attack time 14.34 defend time 17.16
+DET away attack time 17.16 defend time 14.34
+20090210DAL
+DAL home attack time 15.23 defend time 14.32
+SAC away attack time 14.32 defend time 15.23
+20090210GSW
+GSW home attack time 14.98 defend time 12.97
+NYK away attack time 12.97 defend time 14.98
+20090210IND
+IND home attack time 15.11 defend time 17.08
+CLE away attack time 17.08 defend time 15.11
+20090210LAL
+LAL home attack time 14.55 defend time 13.91
+OKC away attack time 13.91 defend time 14.55
+20090210MIA
+MIA home attack time 15.27 defend time 17.77
+DEN away attack time 17.77 defend time 15.27
+20090210MIN
+MIN home attack time 15.02 defend time 15.33
+TOR away attack time 15.33 defend time 15.02
+20090210NJN
+NJN home attack time 16.73 defend time 16.52
+SAS away attack time 16.52 defend time 16.73
+20090211CHA
+CHA home attack time 16.1 defend time 16.95
+WAS away attack time 16.95 defend time 16.1
+20090211CLE
+CLE home attack time 16.06 defend time 13.57
+PHO away attack time 13.57 defend time 16.06
+20090211DET
+DET home attack time 16.27 defend time 16.76
+ATL away attack time 16.76 defend time 16.27
+20090211HOU
+HOU home attack time 16.28 defend time 15.07
+SAC away attack time 15.07 defend time 16.28
+20090211LAC
+LAC home attack time 14.87 defend time 14.34
+NYK away attack time 14.34 defend time 14.87
+20090211MIL
+MIL home attack time 13.64 defend time 15.9
+IND away attack time 15.9 defend time 13.64
+20090211NOH
+NOH home attack time 16.15 defend time 17.63
+BOS away attack time 17.63 defend time 16.15
+20090211ORL
+ORL home attack time 15.1 defend time 15.84
+DEN away attack time 15.84 defend time 15.1
+20090211PHI
+PHI home attack time 15.08 defend time 17.51
+MEM away attack time 17.51 defend time 15.08
+20090211POR
+POR home attack time 15.65 defend time 15.9
+OKC away attack time 15.9 defend time 15.65
+20090211TOR
+TOR home attack time 16.08 defend time 15.52
+SAS away attack time 15.52 defend time 16.08
+20090211UTA
+UTA home attack time 14.71 defend time 15.88
+LAL away attack time 15.88 defend time 14.71
+20090212CHI
+CHI home attack time 14.04 defend time 16.27
+MIA away attack time 16.27 defend time 14.04
+20090212DAL
+DAL home attack time 15.36 defend time 15.8
+BOS away attack time 15.8 defend time 15.36
+20090212GSW
+GSW home attack time 14.03 defend time 15.67
+POR away attack time 15.67 defend time 14.03
+20090217DET
+DET home attack time 16.36 defend time 16.71
+MIL away attack time 16.71 defend time 16.36
+20090217HOU
+HOU home attack time 16.83 defend time 14.35
+NJN away attack time 14.35 defend time 16.83
+20090217IND
+IND home attack time 15.36 defend time 15.36
+PHI away attack time 15.36 defend time 15.36
+20090217LAL
+LAL home attack time 14.12 defend time 15.69
+ATL away attack time 15.69 defend time 14.12
+20090217NYK
+NYK home attack time 13.88 defend time 17.66
+SAS away attack time 17.66 defend time 13.88
+20090217OKC
+OKC home attack time 15.16 defend time 16.56
+NOH away attack time 16.56 defend time 15.16
+20090217ORL
+ORL home attack time 16.15 defend time 17.45
+CHA away attack time 17.45 defend time 16.15
+20090217PHO
+PHO home attack time 12.54 defend time 14.04
+LAC away attack time 14.04 defend time 12.54
+20090217UTA
+UTA home attack time 15.31 defend time 16.1
+MEM away attack time 16.1 defend time 15.31
+20090217WAS
+WAS home attack time 15.38 defend time 14.0
+MIN away attack time 14.0 defend time 15.38
+20090218CHA
+CHA home attack time 16.48 defend time 14.65
+IND away attack time 14.65 defend time 16.48
+20090218DAL
+DAL home attack time 16.3 defend time 16.5
+NJN away attack time 16.5 defend time 16.3
+20090218GSW
+GSW home attack time 14.55 defend time 14.9
+LAL away attack time 14.9 defend time 14.55
+20090218LAC
+LAC home attack time 15.6 defend time 13.25
+PHO away attack time 13.25 defend time 15.6
+20090218MIA
+MIA home attack time 14.62 defend time 16.91
+MIN away attack time 16.91 defend time 14.62
+20090218MIL
+MIL home attack time 15.47 defend time 14.15
+CHI away attack time 14.15 defend time 15.47
+20090218NOH
+NOH home attack time 16.14 defend time 15.9
+ORL away attack time 15.9 defend time 16.14
+20090218PHI
+PHI home attack time 14.56 defend time 14.12
+DEN away attack time 14.12 defend time 14.56
+20090218POR
+POR home attack time 14.66 defend time 16.83
+MEM away attack time 16.83 defend time 14.66
+20090218SAC
+SAC home attack time 14.68 defend time 14.62
+ATL away attack time 14.62 defend time 14.68
+20090218TOR
+TOR home attack time 14.72 defend time 15.98
+CLE away attack time 15.98 defend time 14.72
+20090219DET
+DET home attack time 17.53 defend time 16.63
+SAS away attack time 16.63 defend time 17.53
+20090219UTA
+UTA home attack time 16.29 defend time 15.96
+BOS away attack time 15.96 defend time 16.29
+20090220CHA
+CHA home attack time 15.86 defend time 16.47
+ORL away attack time 16.47 defend time 15.86
+20090220CHI
+CHI home attack time 14.31 defend time 15.12
+DEN away attack time 15.12 defend time 14.31
+20090220HOU
+HOU home attack time 15.39 defend time 15.6
+DAL away attack time 15.6 defend time 15.39
+20090220LAL
+LAL home attack time 14.66 defend time 15.42
+NOH away attack time 15.42 defend time 14.66
+20090220MEM
+MEM home attack time 14.01 defend time 15.81
+SAC away attack time 15.81 defend time 14.01
+20090220MIL
+MIL home attack time 13.85 defend time 17.84
+CLE away attack time 17.84 defend time 13.85
+20090220MIN
+MIN home attack time 14.0 defend time 14.13
+IND away attack time 14.13 defend time 14.0
+20090220NJN
+NJN home attack time 14.64 defend time 15.37
+WAS away attack time 15.37 defend time 14.64
+20090220NYK
+NYK home attack time 13.95 defend time 14.14
+TOR away attack time 14.14 defend time 13.95
+20090220PHO
+PHO home attack time 11.53 defend time 15.66
+OKC away attack time 15.66 defend time 11.53
+20090220POR
+POR home attack time 15.91 defend time 16.22
+ATL away attack time 16.22 defend time 15.91
+20090221DAL
+DAL home attack time 14.74 defend time 13.77
+SAC away attack time 13.77 defend time 14.74
+20090221GSW
+GSW home attack time 12.28 defend time 14.71
+OKC away attack time 14.71 defend time 12.28
+20090221MIA
+MIA home attack time 16.0 defend time 17.33
+PHI away attack time 17.33 defend time 16.0
+20090221UTA
+UTA home attack time 15.28 defend time 17.97
+NOH away attack time 17.97 defend time 15.28
+20090221WAS
+WAS home attack time 15.09 defend time 18.01
+SAS away attack time 18.01 defend time 15.09
+20090222CLE
+CLE home attack time 17.63 defend time 15.85
+DET away attack time 15.85 defend time 17.63
+20090222HOU
+HOU home attack time 15.3 defend time 17.08
+CHA away attack time 17.08 defend time 15.3
+20090222IND
+IND home attack time 15.93 defend time 14.97
+CHI away attack time 14.97 defend time 15.93
+20090222MIL
+MIL home attack time 14.79 defend time 14.43
+DEN away attack time 14.43 defend time 14.79
+20090222MIN
+MIN home attack time 14.58 defend time 14.6
+LAL away attack time 14.6 defend time 14.58
+20090222ORL
+ORL home attack time 14.75 defend time 15.63
+MIA away attack time 15.63 defend time 14.75
+20090222PHO
+PHO home attack time 11.75 defend time 16.56
+BOS away attack time 16.56 defend time 11.75
+20090222POR
+POR home attack time 15.07 defend time 14.04
+LAC away attack time 14.04 defend time 15.07
+20090222TOR
+TOR home attack time 14.27 defend time 14.32
+NYK away attack time 14.32 defend time 14.27
+20090223DEN
+DEN home attack time 14.74 defend time 16.22
+BOS away attack time 16.22 defend time 14.74
+20090223LAC
+LAC home attack time 15.13 defend time 12.86
+GSW away attack time 12.86 defend time 15.13
+20090223NJN
+NJN home attack time 16.32 defend time 16.88
+PHI away attack time 16.88 defend time 16.32
+20090223NYK
+NYK home attack time 12.5 defend time 13.62
+IND away attack time 13.62 defend time 12.5
+20090223SAC
+SAC home attack time 14.98 defend time 16.59
+NOH away attack time 16.59 defend time 14.98
+20090223UTA
+UTA home attack time 15.71 defend time 15.87
+ATL away attack time 15.87 defend time 15.71
+20090224CHI
+CHI home attack time 15.25 defend time 14.88
+ORL away attack time 14.88 defend time 15.25
+20090224CLE
+CLE home attack time 17.0 defend time 16.3
+MEM away attack time 16.3 defend time 17.0
+20090224HOU
+HOU home attack time 15.33 defend time 15.35
+POR away attack time 15.35 defend time 15.33
+20090224MIA
+MIA home attack time 15.32 defend time 17.88
+DET away attack time 17.88 defend time 15.32
+20090224OKC
+OKC home attack time 14.14 defend time 16.61
+LAL away attack time 16.61 defend time 14.14
+20090224PHO
+PHO home attack time 13.23 defend time 15.92
+CHA away attack time 15.92 defend time 13.23
+20090224SAS
+SAS home attack time 16.96 defend time 16.64
+DAL away attack time 16.64 defend time 16.96
+20090224TOR
+TOR home attack time 13.72 defend time 16.02
+MIN away attack time 16.02 defend time 13.72
+20090225DAL
+DAL home attack time 15.73 defend time 14.55
+MIL away attack time 14.55 defend time 15.73
+20090225DEN
+DEN home attack time 15.58 defend time 16.21
+ATL away attack time 16.21 defend time 15.58
+20090225IND
+IND home attack time 16.13 defend time 14.97
+MEM away attack time 14.97 defend time 16.13
+20090225LAC
+LAC home attack time 17.61 defend time 14.67
+BOS away attack time 14.67 defend time 17.61
+20090225MIN
+MIN home attack time 15.54 defend time 14.3
+UTA away attack time 14.3 defend time 15.54
+20090225NJN
+NJN home attack time 16.69 defend time 16.55
+CHI away attack time 16.55 defend time 16.69
+20090225NOH
+NOH home attack time 16.32 defend time 18.43
+DET away attack time 18.43 defend time 16.32
+20090225NYK
+NYK home attack time 12.86 defend time 15.9
+ORL away attack time 15.9 defend time 12.86
+20090225SAC
+SAC home attack time 14.71 defend time 16.15
+CHA away attack time 16.15 defend time 14.71
+20090225SAS
+SAS home attack time 16.56 defend time 18.38
+POR away attack time 18.38 defend time 16.56
+20090225WAS
+WAS home attack time 15.36 defend time 14.62
+PHI away attack time 14.62 defend time 15.36
+20090226HOU
+HOU home attack time 16.25 defend time 17.87
+CLE away attack time 17.87 defend time 16.25
+20090226LAL
+LAL home attack time 13.67 defend time 13.78
+PHO away attack time 13.78 defend time 13.67
+20090227ATL
+ATL home attack time 17.31 defend time 14.83
+MIA away attack time 14.83 defend time 17.31
+20090227BOS
+BOS home attack time 16.46 defend time 14.92
+IND away attack time 14.92 defend time 16.46
+20090227DAL
+DAL home attack time 14.98 defend time 16.79
+OKC away attack time 16.79 defend time 14.98
+20090227DEN
+DEN home attack time 13.93 defend time 16.49
+LAL away attack time 16.49 defend time 13.93
+20090227GSW
+GSW home attack time 14.19 defend time 16.29
+CHA away attack time 16.29 defend time 14.19
+20090227MIN
+MIN home attack time 15.97 defend time 19.22
+POR away attack time 19.22 defend time 15.97
+20090227NOH
+NOH home attack time 15.33 defend time 14.61
+MIL away attack time 14.61 defend time 15.33
+20090227NYK
+NYK home attack time 13.61 defend time 17.28
+PHI away attack time 17.28 defend time 13.61
+20090227ORL
+ORL home attack time 13.93 defend time 21.26
+DET away attack time 21.26 defend time 13.93
+20090227PHO
+PHO home attack time 14.98 defend time 14.51
+TOR away attack time 14.51 defend time 14.98
+20090227SAC
+SAC home attack time 14.37 defend time 15.53
+LAC away attack time 15.53 defend time 14.37
+20090227SAS
+SAS home attack time 14.67 defend time 18.72
+CLE away attack time 18.72 defend time 14.67
+20090227WAS
+WAS home attack time 17.36 defend time 15.76
+CHI away attack time 15.76 defend time 17.36
+20090228CHI
+CHI home attack time 13.74 defend time 17.51
+HOU away attack time 17.51 defend time 13.74
+20090228LAC
+LAC home attack time 16.28 defend time 17.69
+CHA away attack time 17.69 defend time 16.28
+20090228MEM
+MEM home attack time 14.09 defend time 16.62
+OKC away attack time 16.62 defend time 14.09
+20090228MIA
+MIA home attack time 16.36 defend time 15.53
+NYK away attack time 15.53 defend time 16.36
+20090228MIL
+MIL home attack time 15.12 defend time 16.19
+WAS away attack time 16.19 defend time 15.12
+20090228PHI
+PHI home attack time 15.34 defend time 15.96
+ORL away attack time 15.96 defend time 15.34
+20090228UTA
+UTA home attack time 14.67 defend time 15.83
+SAC away attack time 15.83 defend time 14.67
+20090301ATL
+ATL home attack time 16.0 defend time 18.18
+CLE away attack time 18.18 defend time 16.0
+20090301BOS
+BOS home attack time 16.36 defend time 17.91
+DET away attack time 17.91 defend time 16.36
+20090301DAL
+DAL home attack time 15.76 defend time 14.1
+TOR away attack time 14.1 defend time 15.76
+20090301GSW
+GSW home attack time 12.97 defend time 15.83
+UTA away attack time 15.83 defend time 12.97
+20090301IND
+IND home attack time 16.83 defend time 13.98
+DEN away attack time 13.98 defend time 16.83
+20090301MIN
+MIN home attack time 16.36 defend time 16.42
+HOU away attack time 16.42 defend time 16.36
+20090301NJN
+NJN home attack time 13.57 defend time 18.21
+NOH away attack time 18.21 defend time 13.57
+20090301PHO
+PHO home attack time 14.44 defend time 14.76
+LAL away attack time 14.76 defend time 14.44
+20090301POR
+POR home attack time 17.21 defend time 14.93
+SAS away attack time 14.93 defend time 17.21
+20090302LAC
+LAC home attack time 15.42 defend time 17.8
+SAS away attack time 17.8 defend time 15.42
+20090302MIA
+MIA home attack time 14.55 defend time 15.98
+CLE away attack time 15.98 defend time 14.55
+20090302OKC
+OKC home attack time 18.15 defend time 14.81
+DAL away attack time 14.81 defend time 18.15
+20090302PHI
+PHI home attack time 15.15 defend time 18.57
+NOH away attack time 18.57 defend time 15.15
+20090302WAS
+WAS home attack time 16.57 defend time 17.21
+ATL away attack time 17.21 defend time 16.57
+20090303CHA
+CHA home attack time 17.97 defend time 14.44
+CHI away attack time 14.44 defend time 17.97
+20090303DET
+DET home attack time 18.85 defend time 15.96
+DEN away attack time 15.96 defend time 18.85
+20090303HOU
+HOU home attack time 15.55 defend time 14.52
+TOR away attack time 14.52 defend time 15.55
+20090303LAL
+LAL home attack time 15.98 defend time 16.4
+MEM away attack time 16.4 defend time 15.98
+20090303MIL
+MIL home attack time 14.58 defend time 16.01
+NJN away attack time 16.01 defend time 14.58
+20090303MIN
+MIN home attack time 14.07 defend time 13.28
+GSW away attack time 13.28 defend time 14.07
+20090303ORL
+ORL home attack time 13.51 defend time 13.85
+PHO away attack time 13.85 defend time 13.51
+20090303SAC
+SAC home attack time 13.88 defend time 14.5
+IND away attack time 14.5 defend time 13.88
+20090304CHI
+CHI home attack time 15.12 defend time 14.68
+GSW away attack time 14.68 defend time 15.12
+20090304CLE
+CLE home attack time 16.12 defend time 16.24
+MIL away attack time 16.24 defend time 16.12
+20090304DAL
+DAL home attack time 15.62 defend time 18.58
+SAS away attack time 18.58 defend time 15.62
+20090304LAC
+LAC home attack time 16.26 defend time 16.09
+MEM away attack time 16.09 defend time 16.26
+20090304MIA
+MIA home attack time 15.98 defend time 12.78
+PHO away attack time 12.78 defend time 15.98
+20090304NJN
+NJN home attack time 16.32 defend time 15.49
+BOS away attack time 15.49 defend time 16.32
+20090304NYK
+NYK home attack time 13.35 defend time 17.7
+ATL away attack time 17.7 defend time 13.35
+20090304OKC
+OKC home attack time 15.79 defend time 17.51
+WAS away attack time 17.51 defend time 15.79
+20090304POR
+POR home attack time 16.4 defend time 16.27
+IND away attack time 16.27 defend time 16.4
+20090304UTA
+UTA home attack time 15.6 defend time 15.53
+HOU away attack time 15.53 defend time 15.6
+20090305DEN
+DEN home attack time 16.22 defend time 16.43
+POR away attack time 16.43 defend time 16.22
+20090305NOH
+NOH home attack time 18.39 defend time 16.12
+DAL away attack time 16.12 defend time 18.39
+20090306BOS
+BOS home attack time 16.4 defend time 16.79
+CLE away attack time 16.79 defend time 16.4
+20090306CHA
+CHA home attack time 17.37 defend time 17.03
+ATL away attack time 17.03 defend time 17.37
+20090306CHI
+CHI home attack time 14.02 defend time 14.95
+MIL away attack time 14.95 defend time 14.02
+20090306DET
+DET home attack time 15.86 defend time 14.12
+GSW away attack time 14.12 defend time 15.86
+20090306HOU
+HOU home attack time 14.85 defend time 13.53
+PHO away attack time 13.53 defend time 14.85
+20090306LAL
+LAL home attack time 14.42 defend time 17.2
+MIN away attack time 17.2 defend time 14.42
+20090306ORL
+ORL home attack time 15.05 defend time 15.16
+NJN away attack time 15.16 defend time 15.05
+20090306SAS
+SAS home attack time 15.66 defend time 15.47
+WAS away attack time 15.47 defend time 15.66
+20090306TOR
+TOR home attack time 14.84 defend time 17.28
+MIA away attack time 17.28 defend time 14.84
+20090306UTA
+UTA home attack time 16.7 defend time 15.78
+DEN away attack time 15.78 defend time 16.7
+20090307ATL
+ATL home attack time 16.41 defend time 19.06
+DET away attack time 19.06 defend time 16.41
+20090307CLE
+CLE home attack time 18.08 defend time 14.95
+MIA away attack time 14.95 defend time 18.08
+20090307DAL
+DAL home attack time 14.9 defend time 14.73
+WAS away attack time 14.73 defend time 14.9
+20090307LAC
+LAC home attack time 16.14 defend time 14.76
+IND away attack time 14.76 defend time 16.14
+20090307MEM
+MEM home attack time 15.74 defend time 14.92
+PHI away attack time 14.92 defend time 15.74
+20090307MIL
+MIL home attack time 13.95 defend time 14.66
+GSW away attack time 14.66 defend time 13.95
+20090307NOH
+NOH home attack time 15.5 defend time 15.46
+OKC away attack time 15.46 defend time 15.5
+20090307NYK
+NYK home attack time 13.23 defend time 17.12
+CHA away attack time 17.12 defend time 13.23
+20090307POR
+POR home attack time 17.55 defend time 17.96
+MIN away attack time 17.96 defend time 17.55
+20090308BOS
+BOS home attack time 15.52 defend time 15.88
+ORL away attack time 15.88 defend time 15.52
+20090308HOU
+HOU home attack time 14.52 defend time 16.52
+MEM away attack time 16.52 defend time 14.52
+20090308NJN
+NJN home attack time 16.1 defend time 14.91
+NYK away attack time 14.91 defend time 16.1
+20090308OKC
+OKC home attack time 15.87 defend time 16.07
+PHI away attack time 16.07 defend time 15.87
+20090308SAC
+SAC home attack time 15.78 defend time 15.05
+DEN away attack time 15.05 defend time 15.78
+20090308SAS
+SAS home attack time 17.95 defend time 13.94
+PHO away attack time 13.94 defend time 17.95
+20090308TOR
+TOR home attack time 13.33 defend time 17.07
+UTA away attack time 17.07 defend time 13.33
+20090309ATL
+ATL home attack time 16.27 defend time 18.12
+NOH away attack time 18.12 defend time 16.27
+20090309DEN
+DEN home attack time 14.43 defend time 16.77
+HOU away attack time 16.77 defend time 14.43
+20090309DET
+DET home attack time 18.24 defend time 14.12
+ORL away attack time 14.12 defend time 18.24
+20090309MIA
+MIA home attack time 16.22 defend time 15.82
+CHI away attack time 15.82 defend time 16.22
+20090309MIN
+MIN home attack time 16.06 defend time 16.2
+WAS away attack time 16.2 defend time 16.06
+20090309POR
+POR home attack time 16.43 defend time 14.73
+LAL away attack time 14.73 defend time 16.43
+20090310IND
+IND home attack time 14.18 defend time 15.48
+UTA away attack time 15.48 defend time 14.18
+20090310LAC
+LAC home attack time 15.73 defend time 16.11
+CLE away attack time 16.11 defend time 15.73
+20090310MIL
+MIL home attack time 13.93 defend time 12.81
+NYK away attack time 12.81 defend time 13.93
+20090310PHO
+PHO home attack time 12.87 defend time 16.8
+DAL away attack time 16.8 defend time 12.87
+20090310SAC
+SAC home attack time 13.89 defend time 15.78
+OKC away attack time 15.78 defend time 13.89
+20090310SAS
+SAS home attack time 17.33 defend time 16.19
+CHA away attack time 16.19 defend time 17.33
+20090311ATL
+ATL home attack time 15.69 defend time 16.76
+UTA away attack time 16.76 defend time 15.69
+20090311DEN
+DEN home attack time 15.45 defend time 15.53
+OKC away attack time 15.53 defend time 15.45
+20090311DET
+DET home attack time 18.17 defend time 14.73
+NYK away attack time 14.73 defend time 18.17
+20090311GSW
+GSW home attack time 13.78 defend time 14.77
+NJN away attack time 14.77 defend time 13.78
+20090311HOU
+HOU home attack time 15.13 defend time 15.64
+LAL away attack time 15.64 defend time 15.13
+20090311MIA
+MIA home attack time 16.45 defend time 16.06
+BOS away attack time 16.06 defend time 16.45
+20090311MIN
+MIN home attack time 17.44 defend time 15.86
+MEM away attack time 15.86 defend time 17.44
+20090311ORL
+ORL home attack time 13.9 defend time 14.71
+CHI away attack time 14.71 defend time 13.9
+20090311PHI
+PHI home attack time 16.87 defend time 14.78
+TOR away attack time 14.78 defend time 16.87
+20090311POR
+POR home attack time 16.61 defend time 17.74
+DAL away attack time 17.74 defend time 16.61
+20090311WAS
+WAS home attack time 15.04 defend time 16.71
+NOH away attack time 16.71 defend time 15.04
+20090312PHO
+PHO home attack time 11.89 defend time 17.46
+CLE away attack time 17.46 defend time 11.89
+20090312SAS
+SAS home attack time 15.09 defend time 17.65
+LAL away attack time 17.65 defend time 15.09
+20090313ATL
+ATL home attack time 15.79 defend time 15.26
+IND away attack time 15.26 defend time 15.79
+20090313BOS
+BOS home attack time 14.61 defend time 18.22
+MEM away attack time 18.22 defend time 14.61
+20090313CHA
+CHA home attack time 15.92 defend time 16.91
+HOU away attack time 16.91 defend time 15.92
+20090313GSW
+GSW home attack time 14.54 defend time 14.75
+DAL away attack time 14.75 defend time 14.54
+20090313MIL
+MIL home attack time 14.89 defend time 18.61
+NOH away attack time 18.61 defend time 14.89
+20090313MIN
+MIN home attack time 15.86 defend time 12.61
+NYK away attack time 12.61 defend time 15.86
+20090313PHI
+PHI home attack time 15.62 defend time 16.22
+CHI away attack time 16.22 defend time 15.62
+20090313POR
+POR home attack time 16.29 defend time 17.57
+NJN away attack time 17.57 defend time 16.29
+20090313SAC
+SAC home attack time 16.27 defend time 17.31
+CLE away attack time 17.31 defend time 16.27
+20090313TOR
+TOR home attack time 14.13 defend time 18.34
+DET away attack time 18.34 defend time 14.13
+20090313WAS
+WAS home attack time 16.06 defend time 15.2
+ORL away attack time 15.2 defend time 16.06
+20090314CHI
+CHI home attack time 17.37 defend time 19.21
+NOH away attack time 19.21 defend time 17.37
+20090314DEN
+DEN home attack time 14.68 defend time 15.19
+LAC away attack time 15.19 defend time 14.68
+20090314HOU
+HOU home attack time 15.9 defend time 15.45
+SAS away attack time 15.45 defend time 15.9
+20090314MIA
+MIA home attack time 15.69 defend time 15.8
+UTA away attack time 15.8 defend time 15.69
+20090314MIN
+MIN home attack time 17.55 defend time 15.34
+CHA away attack time 15.34 defend time 17.55
+20090314PHO
+PHO home attack time 13.56 defend time 17.36
+OKC away attack time 17.36 defend time 13.56
+20090315ATL
+ATL home attack time 16.78 defend time 17.09
+POR away attack time 17.09 defend time 16.78
+20090315CLE
+CLE home attack time 17.4 defend time 13.81
+NYK away attack time 13.81 defend time 17.4
+20090315DET
+DET home attack time 16.68 defend time 17.37
+MEM away attack time 17.37 defend time 16.68
+20090315GSW
+GSW home attack time 13.91 defend time 12.96
+PHO away attack time 12.96 defend time 13.91
+20090315LAC
+LAC home attack time 15.64 defend time 15.45
+NJN away attack time 15.45 defend time 15.64
+20090315LAL
+LAL home attack time 14.97 defend time 15.8
+DAL away attack time 15.8 defend time 14.97
+20090315MIL
+MIL home attack time 15.26 defend time 16.56
+BOS away attack time 16.56 defend time 15.26
+20090315ORL
+ORL home attack time 15.24 defend time 14.88
+UTA away attack time 14.88 defend time 15.24
+20090315PHI
+PHI home attack time 16.75 defend time 18.51
+MIA away attack time 18.51 defend time 16.75
+20090315TOR
+TOR home attack time 14.77 defend time 14.98
+IND away attack time 14.98 defend time 14.77
+20090315WAS
+WAS home attack time 15.82 defend time 15.35
+SAC away attack time 15.35 defend time 15.82
+20090316CHA
+CHA home attack time 17.05 defend time 13.45
+TOR away attack time 13.45 defend time 17.05
+20090316DEN
+DEN home attack time 15.12 defend time 18.3
+NJN away attack time 18.3 defend time 15.12
+20090316MEM
+MEM home attack time 16.19 defend time 18.15
+POR away attack time 18.15 defend time 16.19
+20090316NOH
+NOH home attack time 16.65 defend time 17.92
+HOU away attack time 17.92 defend time 16.65
+20090316OKC
+OKC home attack time 15.79 defend time 16.19
+SAS away attack time 16.19 defend time 15.79
+20090317ATL
+ATL home attack time 15.38 defend time 15.41
+SAC away attack time 15.41 defend time 15.38
+20090317CHI
+CHI home attack time 13.65 defend time 16.29
+BOS away attack time 16.29 defend time 13.65
+20090317CLE
+CLE home attack time 16.78 defend time 15.31
+ORL away attack time 15.31 defend time 16.78
+20090317DAL
+DAL home attack time 16.12 defend time 18.77
+DET away attack time 18.77 defend time 16.12
+20090317GSW
+GSW home attack time 12.67 defend time 15.76
+LAC away attack time 15.76 defend time 12.67
+20090317LAL
+LAL home attack time 16.42 defend time 16.89
+PHI away attack time 16.89 defend time 16.42
+20090317SAS
+SAS home attack time 16.98 defend time 15.25
+MIN away attack time 15.25 defend time 16.98
+20090317UTA
+UTA home attack time 13.96 defend time 14.96
+WAS away attack time 14.96 defend time 13.96
+20090318BOS
+BOS home attack time 15.71 defend time 17.94
+MIA away attack time 17.94 defend time 15.71
+20090318CHA
+CHA home attack time 16.57 defend time 16.44
+SAC away attack time 16.44 defend time 16.57
+20090318HOU
+HOU home attack time 17.17 defend time 20.53
+DET away attack time 20.53 defend time 17.17
+20090318IND
+IND home attack time 13.25 defend time 17.03
+POR away attack time 17.03 defend time 13.25
+20090318LAC
+LAC home attack time 15.81 defend time 15.55
+WAS away attack time 15.55 defend time 15.81
+20090318MEM
+MEM home attack time 16.03 defend time 14.16
+DEN away attack time 14.16 defend time 16.03
+20090318MIL
+MIL home attack time 14.62 defend time 17.2
+ORL away attack time 17.2 defend time 14.62
+20090318NOH
+NOH home attack time 17.09 defend time 16.71
+MIN away attack time 16.71 defend time 17.09
+20090318NYK
+NYK home attack time 12.98 defend time 17.05
+NJN away attack time 17.05 defend time 12.98
+20090318OKC
+OKC home attack time 14.61 defend time 17.12
+CHI away attack time 17.12 defend time 14.61
+20090318PHO
+PHO home attack time 15.16 defend time 15.83
+PHI away attack time 15.83 defend time 15.16
+20090319ATL
+ATL home attack time 16.38 defend time 16.22
+DAL away attack time 16.22 defend time 16.38
+20090319CLE
+CLE home attack time 18.01 defend time 17.13
+POR away attack time 17.13 defend time 18.01
+20090319LAL
+LAL home attack time 13.8 defend time 13.34
+GSW away attack time 13.34 defend time 13.8
+20090320DEN
+DEN home attack time 13.8 defend time 14.74
+WAS away attack time 14.74 defend time 13.8
+20090320DET
+DET home attack time 17.8 defend time 16.9
+LAC away attack time 16.9 defend time 17.8
+20090320GSW
+GSW home attack time 13.3 defend time 15.6
+PHI away attack time 15.6 defend time 13.3
+20090320HOU
+HOU home attack time 15.31 defend time 15.92
+MIN away attack time 15.92 defend time 15.31
+20090320IND
+IND home attack time 15.52 defend time 16.51
+DAL away attack time 16.51 defend time 15.52
+20090320NJN
+NJN home attack time 16.83 defend time 16.32
+MIA away attack time 16.32 defend time 16.83
+20090320NOH
+NOH home attack time 15.29 defend time 17.03
+MEM away attack time 17.03 defend time 15.29
+20090320NYK
+NYK home attack time 12.32 defend time 16.87
+SAC away attack time 16.87 defend time 12.32
+20090320OKC
+OKC home attack time 14.89 defend time 15.34
+UTA away attack time 15.34 defend time 14.89
+20090320SAS
+SAS home attack time 18.16 defend time 16.66
+BOS away attack time 16.66 defend time 18.16
+20090320TOR
+TOR home attack time 13.87 defend time 18.96
+CHA away attack time 18.96 defend time 13.87
+20090321CHA
+CHA home attack time 17.77 defend time 15.09
+IND away attack time 15.09 defend time 17.77
+20090321CHI
+CHI home attack time 13.92 defend time 14.74
+LAL away attack time 14.74 defend time 13.92
+20090321CLE
+CLE home attack time 16.03 defend time 14.84
+ATL away attack time 14.84 defend time 16.03
+20090321MEM
+MEM home attack time 16.81 defend time 15.09
+BOS away attack time 15.09 defend time 16.81
+20090321MIL
+MIL home attack time 13.93 defend time 16.81
+POR away attack time 16.81 defend time 13.93
+20090321ORL
+ORL home attack time 15.48 defend time 14.46
+NYK away attack time 14.46 defend time 15.48
+20090321PHO
+PHO home attack time 13.12 defend time 17.48
+WAS away attack time 17.48 defend time 13.12
+20090322DET
+DET home attack time 18.79 defend time 15.14
+MIA away attack time 15.14 defend time 18.79
+20090322MIN
+MIN home attack time 15.5 defend time 16.79
+OKC away attack time 16.79 defend time 15.5
+20090322NJN
+NJN home attack time 16.56 defend time 18.09
+CLE away attack time 18.09 defend time 16.56
+20090322NOH
+NOH home attack time 16.94 defend time 12.76
+GSW away attack time 12.76 defend time 16.94
+20090322SAC
+SAC home attack time 14.52 defend time 15.28
+PHI away attack time 15.28 defend time 14.52
+20090322SAS
+SAS home attack time 17.04 defend time 16.27
+HOU away attack time 16.27 defend time 17.04
+20090322TOR
+TOR home attack time 14.68 defend time 14.62
+LAC away attack time 14.62 defend time 14.68
+20090323ATL
+ATL home attack time 16.21 defend time 17.27
+MIN away attack time 17.27 defend time 16.21
+20090323BOS
+BOS home attack time 14.53 defend time 16.97
+LAC away attack time 16.97 defend time 14.53
+20090323MIA
+MIA home attack time 16.62 defend time 15.89
+MEM away attack time 15.89 defend time 16.62
+20090323NYK
+NYK home attack time 13.53 defend time 15.36
+ORL away attack time 15.36 defend time 13.53
+20090323PHO
+PHO home attack time 13.59 defend time 16.51
+DEN away attack time 16.51 defend time 13.59
+20090323POR
+POR home attack time 19.58 defend time 14.89
+PHI away attack time 14.89 defend time 19.58
+20090323WAS
+WAS home attack time 16.34 defend time 14.46
+CHI away attack time 14.46 defend time 16.34
+20090324CHI
+CHI home attack time 15.13 defend time 17.51
+DET away attack time 17.51 defend time 15.13
+20090324OKC
+OKC home attack time 14.55 defend time 15.22
+LAL away attack time 15.22 defend time 14.55
+20090324SAS
+SAS home attack time 16.1 defend time 15.61
+GSW away attack time 15.61 defend time 16.1
+20090324UTA
+UTA home attack time 14.76 defend time 14.66
+HOU away attack time 14.66 defend time 14.76
+20090325ATL
+ATL home attack time 15.77 defend time 18.07
+SAS away attack time 18.07 defend time 15.77
+20090325CLE
+CLE home attack time 16.54 defend time 17.59
+NJN away attack time 17.59 defend time 16.54
+20090325DAL
+DAL home attack time 14.66 defend time 14.12
+GSW away attack time 14.12 defend time 14.66
+20090325IND
+IND home attack time 15.66 defend time 16.62
+MIA away attack time 16.62 defend time 15.66
+20090325NOH
+NOH home attack time 15.77 defend time 16.36
+DEN away attack time 16.36 defend time 15.77
+20090325NYK
+NYK home attack time 12.8 defend time 16.3
+LAC away attack time 16.3 defend time 12.8
+20090325ORL
+ORL home attack time 16.29 defend time 15.89
+BOS away attack time 15.89 defend time 16.29
+20090325PHI
+PHI home attack time 16.01 defend time 17.6
+MIN away attack time 17.6 defend time 16.01
+20090325PHO
+PHO home attack time 12.9 defend time 15.18
+UTA away attack time 15.18 defend time 12.9
+20090325TOR
+TOR home attack time 15.38 defend time 15.31
+MIL away attack time 15.31 defend time 15.38
+20090325WAS
+WAS home attack time 15.25 defend time 15.83
+CHA away attack time 15.83 defend time 15.25
+20090326CHI
+CHI home attack time 17.29 defend time 17.29
+MIA away attack time 17.29 defend time 17.29
+20090326DET
+DET home attack time 18.16 defend time 14.37
+LAL away attack time 14.37 defend time 18.16
+20090326POR
+POR home attack time 14.86 defend time 15.52
+PHO away attack time 15.52 defend time 14.86
+20090327ATL
+ATL home attack time 14.77 defend time 18.36
+BOS away attack time 18.36 defend time 14.77
+20090327CLE
+CLE home attack time 16.64 defend time 17.78
+MIN away attack time 17.78 defend time 16.64
+20090327DAL
+DAL home attack time 17.71 defend time 16.96
+DEN away attack time 16.96 defend time 17.71
+20090327NJN
+NJN home attack time 15.63 defend time 15.19
+LAL away attack time 15.19 defend time 15.63
+20090327NYK
+NYK home attack time 13.48 defend time 17.07
+NOH away attack time 17.07 defend time 13.48
+20090327ORL
+ORL home attack time 14.41 defend time 15.75
+MIL away attack time 15.75 defend time 14.41
+20090327PHI
+PHI home attack time 13.89 defend time 19.25
+CHA away attack time 19.25 defend time 13.89
+20090327SAC
+SAC home attack time 14.32 defend time 19.11
+MEM away attack time 19.11 defend time 14.32
+20090327SAS
+SAS home attack time 17.62 defend time 17.76
+LAC away attack time 17.76 defend time 17.62
+20090327TOR
+TOR home attack time 15.22 defend time 14.26
+OKC away attack time 14.26 defend time 15.22
+20090328CHA
+CHA home attack time 17.07 defend time 14.59
+NYK away attack time 14.59 defend time 17.07
+20090328CHI
+CHI home attack time 14.08 defend time 14.86
+IND away attack time 14.86 defend time 14.08
+20090328DEN
+DEN home attack time 12.69 defend time 14.32
+GSW away attack time 14.32 defend time 12.69
+20090328HOU
+HOU home attack time 15.69 defend time 16.31
+LAC away attack time 16.31 defend time 15.69
+20090328MIA
+MIA home attack time 14.37 defend time 14.52
+MIL away attack time 14.52 defend time 14.37
+20090328POR
+POR home attack time 16.84 defend time 19.68
+MEM away attack time 19.68 defend time 16.84
+20090328UTA
+UTA home attack time 15.69 defend time 13.06
+PHO away attack time 13.06 defend time 15.69
+20090328WAS
+WAS home attack time 14.25 defend time 17.3
+DET away attack time 17.3 defend time 14.25
+20090329ATL
+ATL home attack time 16.39 defend time 16.4
+LAL away attack time 16.4 defend time 16.39
+20090329BOS
+BOS home attack time 16.18 defend time 15.05
+OKC away attack time 15.05 defend time 16.18
+20090329CLE
+CLE home attack time 16.49 defend time 14.41
+DAL away attack time 14.41 defend time 16.49
+20090329DET
+DET home attack time 17.81 defend time 16.93
+PHI away attack time 16.93 defend time 17.81
+20090329IND
+IND home attack time 14.33 defend time 15.07
+WAS away attack time 15.07 defend time 14.33
+20090329MIN
+MIN home attack time 15.74 defend time 15.84
+NJN away attack time 15.84 defend time 15.74
+20090329NOH
+NOH home attack time 17.3 defend time 17.23
+SAS away attack time 17.23 defend time 17.3
+20090329SAC
+SAC home attack time 14.5 defend time 13.81
+PHO away attack time 13.81 defend time 14.5
+20090329TOR
+TOR home attack time 15.84 defend time 13.92
+CHI away attack time 13.92 defend time 15.84
+20090330GSW
+GSW home attack time 13.36 defend time 15.18
+MEM away attack time 15.18 defend time 13.36
+20090330MIA
+MIA home attack time 15.76 defend time 15.53
+ORL away attack time 15.53 defend time 15.76
+20090330NJN
+NJN home attack time 14.87 defend time 15.94
+MIL away attack time 15.94 defend time 14.87
+20090330UTA
+UTA home attack time 15.0 defend time 13.96
+NYK away attack time 13.96 defend time 15.0
+20090331CHA
+CHA home attack time 16.75 defend time 15.96
+LAL away attack time 15.96 defend time 16.75
+20090331CLE
+CLE home attack time 16.65 defend time 16.83
+DET away attack time 16.83 defend time 16.65
+20090331DEN
+DEN home attack time 13.08 defend time 14.72
+NYK away attack time 14.72 defend time 13.08
+20090331IND
+IND home attack time 13.2 defend time 16.71
+CHI away attack time 16.71 defend time 13.2
+20090331MIN
+MIN home attack time 15.9 defend time 15.86
+DAL away attack time 15.86 defend time 15.9
+20090331PHI
+PHI home attack time 18.12 defend time 16.02
+ATL away attack time 16.02 defend time 18.12
+20090331POR
+POR home attack time 16.75 defend time 14.89
+UTA away attack time 14.89 defend time 16.75
+20090331SAC
+SAC home attack time 15.17 defend time 18.13
+NOH away attack time 18.13 defend time 15.17
+20090331SAS
+SAS home attack time 17.34 defend time 16.86
+OKC away attack time 16.86 defend time 17.34
+20090401BOS
+BOS home attack time 16.34 defend time 18.91
+CHA away attack time 18.91 defend time 16.34
+20090401DAL
+DAL home attack time 15.57 defend time 17.34
+MIA away attack time 17.34 defend time 15.57
+20090401GSW
+GSW home attack time 12.23 defend time 14.42
+SAC away attack time 14.42 defend time 12.23
+20090401LAC
+LAC home attack time 14.98 defend time 15.53
+NOH away attack time 15.53 defend time 14.98
+20090401MEM
+MEM home attack time 15.84 defend time 15.27
+WAS away attack time 15.27 defend time 15.84
+20090401MIL
+MIL home attack time 14.75 defend time 15.14
+LAL away attack time 15.14 defend time 14.75
+20090401NJN
+NJN home attack time 16.31 defend time 15.4
+DET away attack time 15.4 defend time 16.31
+20090401ORL
+ORL home attack time 14.55 defend time 15.45
+TOR away attack time 15.45 defend time 14.55
+20090401PHO
+PHO home attack time 13.01 defend time 16.19
+HOU away attack time 16.19 defend time 13.01
+20090402DEN
+DEN home attack time 13.56 defend time 14.93
+UTA away attack time 14.93 defend time 13.56
+20090402PHI
+PHI home attack time 15.8 defend time 16.31
+MIL away attack time 16.31 defend time 15.8
+20090402WAS
+WAS home attack time 14.88 defend time 17.23
+CLE away attack time 17.23 defend time 14.88
+20090403BOS
+BOS home attack time 15.68 defend time 16.05
+ATL away attack time 16.05 defend time 15.68
+20090403CHA
+CHA home attack time 15.75 defend time 15.73
+MIA away attack time 15.73 defend time 15.75
+20090403GSW
+GSW home attack time 14.2 defend time 15.7
+NOH away attack time 15.7 defend time 14.2
+20090403IND
+IND home attack time 14.47 defend time 16.28
+SAS away attack time 16.28 defend time 14.47
+20090403LAL
+LAL home attack time 16.16 defend time 16.26
+HOU away attack time 16.26 defend time 16.16
+20090403MEM
+MEM home attack time 16.44 defend time 16.08
+DAL away attack time 16.08 defend time 16.44
+20090403OKC
+OKC home attack time 15.44 defend time 17.78
+POR away attack time 17.78 defend time 15.44
+20090403ORL
+ORL home attack time 14.69 defend time 15.89
+CLE away attack time 15.89 defend time 14.69
+20090403PHO
+PHO home attack time 13.04 defend time 15.63
+SAC away attack time 15.63 defend time 13.04
+20090403UTA
+UTA home attack time 14.2 defend time 15.92
+MIN away attack time 15.92 defend time 14.2
+20090404ATL
+ATL home attack time 15.55 defend time 16.38
+ORL away attack time 16.38 defend time 15.55
+20090404CHI
+CHI home attack time 14.1 defend time 17.51
+NJN away attack time 17.51 defend time 14.1
+20090404DEN
+DEN home attack time 13.63 defend time 15.24
+LAC away attack time 15.24 defend time 13.63
+20090404MIL
+MIL home attack time 13.24 defend time 16.77
+MEM away attack time 16.77 defend time 13.24
+20090404NYK
+NYK home attack time 13.58 defend time 16.43
+TOR away attack time 16.43 defend time 13.58
+20090404PHI
+PHI home attack time 15.11 defend time 18.32
+DET away attack time 18.32 defend time 15.11
+20090404WAS
+WAS home attack time 15.11 defend time 16.6
+MIA away attack time 16.6 defend time 15.11
+20090405CLE
+CLE home attack time 16.8 defend time 16.27
+SAS away attack time 16.27 defend time 16.8
+20090405DAL
+DAL home attack time 15.98 defend time 13.27
+PHO away attack time 13.27 defend time 15.98
+20090405DET
+DET home attack time 16.03 defend time 17.54
+CHA away attack time 17.54 defend time 16.03
+20090405HOU
+HOU home attack time 18.11 defend time 18.11
+POR away attack time 18.11 defend time 18.11
+20090405LAL
+LAL home attack time 14.88 defend time 17.11
+LAC away attack time 17.11 defend time 14.88
+20090405MIN
+MIN home attack time 17.41 defend time 13.72
+DEN away attack time 13.72 defend time 17.41
+20090405NJN
+NJN home attack time 17.81 defend time 16.53
+PHI away attack time 16.53 defend time 17.81
+20090405NOH
+NOH home attack time 15.95 defend time 16.34
+UTA away attack time 16.34 defend time 15.95
+20090405OKC
+OKC home attack time 13.72 defend time 13.52
+IND away attack time 13.52 defend time 13.72
+20090405SAC
+SAC home attack time 14.51 defend time 15.52
+GSW away attack time 15.52 defend time 14.51
+20090405TOR
+TOR home attack time 15.4 defend time 15.03
+NYK away attack time 15.03 defend time 15.4
+20090407CHA
+CHA home attack time 17.17 defend time 16.93
+PHI away attack time 16.93 defend time 17.17
+20090407CHI
+CHI home attack time 14.87 defend time 14.91
+NYK away attack time 14.91 defend time 14.87
+20090407HOU
+HOU home attack time 17.31 defend time 15.85
+ORL away attack time 15.85 defend time 17.31
+20090407LAC
+LAC home attack time 15.79 defend time 19.68
+MIN away attack time 19.68 defend time 15.79
+20090407MEM
+MEM home attack time 17.34 defend time 16.84
+POR away attack time 16.84 defend time 17.34
+20090407MIA
+MIA home attack time 16.23 defend time 18.4
+NOH away attack time 18.4 defend time 16.23
+20090407OKC
+OKC home attack time 14.95 defend time 17.91
+SAS away attack time 17.91 defend time 14.95
+20090407SAC
+SAC home attack time 14.74 defend time 13.61
+LAL away attack time 13.61 defend time 14.74
+20090407TOR
+TOR home attack time 15.56 defend time 16.56
+ATL away attack time 16.56 defend time 15.56
+20090408BOS
+BOS home attack time 15.31 defend time 16.4
+NJN away attack time 16.4 defend time 15.31
+20090408CLE
+CLE home attack time 16.91 defend time 15.81
+WAS away attack time 15.81 defend time 16.91
+20090408DAL
+DAL home attack time 14.92 defend time 14.09
+UTA away attack time 14.09 defend time 14.92
+20090408DEN
+DEN home attack time 13.7 defend time 15.37
+OKC away attack time 15.37 defend time 13.7
+20090408GSW
+GSW home attack time 14.11 defend time 17.27
+MIN away attack time 17.27 defend time 14.11
+20090408IND
+IND home attack time 13.33 defend time 14.08
+TOR away attack time 14.08 defend time 13.33
+20090408MIL
+MIL home attack time 15.5 defend time 16.74
+ATL away attack time 16.74 defend time 15.5
+20090408NOH
+NOH home attack time 17.03 defend time 14.67
+PHO away attack time 14.67 defend time 17.03
+20090408NYK
+NYK home attack time 14.02 defend time 18.22
+DET away attack time 18.22 defend time 14.02
+20090408ORL
+ORL home attack time 15.51 defend time 19.77
+MEM away attack time 19.77 defend time 15.51
+20090408SAS
+SAS home attack time 16.24 defend time 19.83
+POR away attack time 19.83 defend time 16.24
+20090409CHI
+CHI home attack time 15.81 defend time 16.47
+PHI away attack time 16.47 defend time 15.81
+20090409LAL
+LAL home attack time 13.91 defend time 15.37
+DEN away attack time 15.37 defend time 13.91
+20090409SAC
+SAC home attack time 14.67 defend time 16.19
+HOU away attack time 16.19 defend time 14.67
+20090410ATL
+ATL home attack time 15.66 defend time 13.73
+IND away attack time 13.73 defend time 15.66
+20090410BOS
+BOS home attack time 16.11 defend time 16.52
+MIA away attack time 16.52 defend time 16.11
+20090410DAL
+DAL home attack time 16.06 defend time 16.91
+NOH away attack time 16.91 defend time 16.06
+20090410DET
+DET home attack time 18.78 defend time 17.01
+NJN away attack time 17.01 defend time 18.78
+20090410GSW
+GSW home attack time 14.92 defend time 16.82
+HOU away attack time 16.82 defend time 14.92
+20090410LAC
+LAC home attack time 13.69 defend time 16.37
+SAC away attack time 16.37 defend time 13.69
+20090410MEM
+MEM home attack time 15.76 defend time 12.89
+PHO away attack time 12.89 defend time 15.76
+20090410OKC
+OKC home attack time 16.06 defend time 15.11
+CHA away attack time 15.11 defend time 16.06
+20090410ORL
+ORL home attack time 14.15 defend time 16.21
+NYK away attack time 16.21 defend time 14.15
+20090410PHI
+PHI home attack time 16.1 defend time 19.83
+CLE away attack time 19.83 defend time 16.1
+20090410POR
+POR home attack time 16.55 defend time 15.25
+LAL away attack time 15.25 defend time 16.55
+20090410SAS
+SAS home attack time 16.7 defend time 14.86
+UTA away attack time 14.86 defend time 16.7
+20090410TOR
+TOR home attack time 13.88 defend time 15.2
+WAS away attack time 15.2 defend time 13.88
+20090411CHI
+CHI home attack time 14.75 defend time 18.27
+CHA away attack time 18.27 defend time 14.75
+20090411IND
+IND home attack time 16.02 defend time 16.26
+DET away attack time 16.26 defend time 16.02
+20090411LAC
+LAC home attack time 16.58 defend time 17.59
+POR away attack time 17.59 defend time 16.58
+20090411MIL
+MIL home attack time 14.44 defend time 15.93
+OKC away attack time 15.93 defend time 14.44
+20090411MIN
+MIN home attack time 15.09 defend time 13.85
+PHO away attack time 13.85 defend time 15.09
+20090411NJN
+NJN home attack time 17.4 defend time 18.08
+ORL away attack time 18.08 defend time 17.4
+20090411UTA
+UTA home attack time 13.63 defend time 16.37
+GSW away attack time 16.37 defend time 13.63
+20090412CLE
+CLE home attack time 16.77 defend time 15.47
+BOS away attack time 15.47 defend time 16.77
+20090412LAL
+LAL home attack time 14.32 defend time 17.84
+MEM away attack time 17.84 defend time 14.32
+20090412MIA
+MIA home attack time 15.85 defend time 15.24
+NYK away attack time 15.24 defend time 15.85
+20090412NOH
+NOH home attack time 16.45 defend time 18.17
+DAL away attack time 18.17 defend time 16.45
+20090412SAC
+SAC home attack time 17.38 defend time 17.61
+SAS away attack time 17.61 defend time 17.38
+20090412TOR
+TOR home attack time 14.49 defend time 16.53
+PHI away attack time 16.53 defend time 14.49
+20090413DAL
+DAL home attack time 15.68 defend time 18.26
+MIN away attack time 18.26 defend time 15.68
+20090413DEN
+DEN home attack time 13.52 defend time 17.86
+SAC away attack time 17.86 defend time 13.52
+20090413DET
+DET home attack time 19.0 defend time 14.65
+CHI away attack time 14.65 defend time 19.0
+20090413GSW
+GSW home attack time 14.33 defend time 16.61
+SAS away attack time 16.61 defend time 14.33
+20090413HOU
+HOU home attack time 16.98 defend time 18.34
+NOH away attack time 18.34 defend time 16.98
+20090413IND
+IND home attack time 12.7 defend time 16.62
+CLE away attack time 16.62 defend time 12.7
+20090413MIL
+MIL home attack time 13.48 defend time 17.91
+ORL away attack time 17.91 defend time 13.48
+20090413NJN
+NJN home attack time 16.6 defend time 15.27
+CHA away attack time 15.27 defend time 16.6
+20090413PHO
+PHO home attack time 12.73 defend time 16.84
+MEM away attack time 16.84 defend time 12.73
+20090413POR
+POR home attack time 16.23 defend time 14.48
+OKC away attack time 14.48 defend time 16.23
+20090413UTA
+UTA home attack time 15.74 defend time 16.87
+LAC away attack time 16.87 defend time 15.74
+20090413WAS
+WAS home attack time 13.87 defend time 14.6
+TOR away attack time 14.6 defend time 13.87
+20090414ATL
+ATL home attack time 15.77 defend time 17.89
+MIA away attack time 17.89 defend time 15.77
+20090414LAL
+LAL home attack time 15.35 defend time 14.44
+UTA away attack time 14.44 defend time 15.35
+20090414PHI
+PHI home attack time 16.65 defend time 16.56
+BOS away attack time 16.56 defend time 16.65
+20090415BOS
+BOS home attack time 15.79 defend time 14.67
+WAS away attack time 14.67 defend time 15.79
+20090415CHI
+CHI home attack time 13.58 defend time 16.08
+TOR away attack time 16.08 defend time 13.58
+20090415CLE
+CLE home attack time 18.31 defend time 15.76
+PHI away attack time 15.76 defend time 18.31
+20090415DAL
+DAL home attack time 15.55 defend time 17.25
+HOU away attack time 17.25 defend time 15.55
+20090415IND
+IND home attack time 14.04 defend time 14.56
+MIL away attack time 14.56 defend time 14.04
+20090415LAC
+LAC home attack time 15.04 defend time 13.05
+OKC away attack time 13.05 defend time 15.04
+20090415MEM
+MEM home attack time 15.37 defend time 16.22
+ATL away attack time 16.22 defend time 15.37
+20090415MIA
+MIA home attack time 18.38 defend time 17.5
+DET away attack time 17.5 defend time 18.38
+20090415MIN
+MIN home attack time 15.37 defend time 17.16
+SAC away attack time 17.16 defend time 15.37
+20090415NYK
+NYK home attack time 13.47 defend time 19.29
+NJN away attack time 19.29 defend time 13.47
+20090415ORL
+ORL home attack time 16.36 defend time 17.33
+CHA away attack time 17.33 defend time 16.36
+20090415PHO
+PHO home attack time 13.77 defend time 16.85
+GSW away attack time 16.85 defend time 13.77
+20090415POR
+POR home attack time 15.93 defend time 16.01
+DEN away attack time 16.01 defend time 15.93
+20090415SAS
+SAS home attack time 17.01 defend time 17.76
+NOH away attack time 17.76 defend time 17.01
+20091027CLE
+CLE home attack time 15.84 defend time 15.94
+BOS away attack time 15.94 defend time 15.84
+20091027DAL
+DAL home attack time 15.06 defend time 17.01
+WAS away attack time 17.01 defend time 15.06
+20091027LAL
+LAL home attack time 14.27 defend time 15.58
+LAC away attack time 15.58 defend time 14.27
+20091027POR
+POR home attack time 16.58 defend time 13.78
+HOU away attack time 13.78 defend time 16.58
+20091028ATL
+ATL home attack time 15.19 defend time 13.55
+IND away attack time 13.55 defend time 15.19
+20091028BOS
+BOS home attack time 16.17 defend time 17.2
+CHA away attack time 17.2 defend time 16.17
+20091028DEN
+DEN home attack time 15.26 defend time 15.39
+UTA away attack time 15.39 defend time 15.26
+20091028GSW
+GSW home attack time 14.22 defend time 15.88
+HOU away attack time 15.88 defend time 14.22
+20091028LAC
+LAC home attack time 16.12 defend time 14.22
+PHO away attack time 14.22 defend time 16.12
+20091028MEM
+MEM home attack time 16.14 defend time 18.67
+DET away attack time 18.67 defend time 16.14
+20091028MIA
+MIA home attack time 15.7 defend time 13.5
+NYK away attack time 13.5 defend time 15.7
+20091028MIN
+MIN home attack time 13.54 defend time 14.38
+NJN away attack time 14.38 defend time 13.54
+20091028OKC
+OKC home attack time 17.03 defend time 15.79
+SAC away attack time 15.79 defend time 17.03
+20091028ORL
+ORL home attack time 15.15 defend time 15.81
+PHI away attack time 15.81 defend time 15.15
+20091028SAS
+SAS home attack time 15.85 defend time 15.76
+NOH away attack time 15.76 defend time 15.85
+20091028TOR
+TOR home attack time 13.93 defend time 15.3
+CLE away attack time 15.3 defend time 13.93
+20091029CHI
+CHI home attack time 15.61 defend time 15.41
+SAS away attack time 15.41 defend time 15.61
+20091029POR
+POR home attack time 18.78 defend time 16.13
+DEN away attack time 16.13 defend time 18.78
+20091030ATL
+ATL home attack time 15.77 defend time 15.61
+WAS away attack time 15.61 defend time 15.77
+20091030BOS
+BOS home attack time 16.34 defend time 15.97
+CHI away attack time 15.97 defend time 16.34
+20091030CHA
+CHA home attack time 16.84 defend time 14.08
+NYK away attack time 14.08 defend time 16.84
+20091030DET
+DET home attack time 16.43 defend time 15.64
+OKC away attack time 15.64 defend time 16.43
+20091030IND
+IND home attack time 14.36 defend time 16.91
+MIA away attack time 16.91 defend time 14.36
+20091030LAL
+LAL home attack time 15.7 defend time 16.22
+DAL away attack time 16.22 defend time 15.7
+20091030MEM
+MEM home attack time 14.86 defend time 15.69
+TOR away attack time 15.69 defend time 14.86
+20091030MIN
+MIN home attack time 14.46 defend time 16.29
+CLE away attack time 16.29 defend time 14.46
+20091030NJN
+NJN home attack time 15.01 defend time 16.23
+ORL away attack time 16.23 defend time 15.01
+20091030NOH
+NOH home attack time 13.79 defend time 17.95
+SAC away attack time 17.95 defend time 13.79
+20091030PHI
+PHI home attack time 14.69 defend time 14.42
+MIL away attack time 14.42 defend time 14.69
+20091030PHO
+PHO home attack time 12.3 defend time 13.35
+GSW away attack time 13.35 defend time 12.3
+20091030UTA
+UTA home attack time 16.61 defend time 13.95
+LAC away attack time 13.95 defend time 16.61
+20091031CLE
+CLE home attack time 15.53 defend time 18.42
+CHA away attack time 18.42 defend time 15.53
+20091031HOU
+HOU home attack time 15.76 defend time 17.5
+POR away attack time 17.5 defend time 15.76
+20091031LAC
+LAC home attack time 15.51 defend time 15.82
+DAL away attack time 15.82 defend time 15.51
+20091031MIL
+MIL home attack time 14.54 defend time 18.58
+DET away attack time 18.58 defend time 14.54
+20091031NYK
+NYK home attack time 13.94 defend time 15.54
+PHI away attack time 15.54 defend time 13.94
+20091031SAS
+SAS home attack time 14.93 defend time 15.63
+SAC away attack time 15.63 defend time 14.93
+20091031WAS
+WAS home attack time 15.79 defend time 15.71
+NJN away attack time 15.71 defend time 15.79
+20091101BOS
+BOS home attack time 15.55 defend time 16.01
+NOH away attack time 16.01 defend time 15.55
+20091101DEN
+DEN home attack time 13.84 defend time 14.72
+MEM away attack time 14.72 defend time 13.84
+20091101LAL
+LAL home attack time 13.66 defend time 14.93
+ATL away attack time 14.93 defend time 13.66
+20091101MIA
+MIA home attack time 16.7 defend time 14.92
+CHI away attack time 14.92 defend time 16.7
+20091101OKC
+OKC home attack time 15.77 defend time 18.63
+POR away attack time 18.63 defend time 15.77
+20091101PHO
+PHO home attack time 13.76 defend time 15.58
+MIN away attack time 15.58 defend time 13.76
+20091101TOR
+TOR home attack time 14.77 defend time 17.39
+ORL away attack time 17.39 defend time 14.77
+20091102CHA
+CHA home attack time 17.21 defend time 14.79
+NJN away attack time 14.79 defend time 17.21
+20091102LAC
+LAC home attack time 15.58 defend time 15.5
+MIN away attack time 15.5 defend time 15.58
+20091102NYK
+NYK home attack time 14.43 defend time 15.2
+NOH away attack time 15.2 defend time 14.43
+20091102SAC
+SAC home attack time 14.63 defend time 15.09
+MEM away attack time 15.09 defend time 14.63
+20091102UTA
+UTA home attack time 14.3 defend time 16.27
+HOU away attack time 16.27 defend time 14.3
+20091103CHI
+CHI home attack time 13.22 defend time 17.02
+MIL away attack time 17.02 defend time 13.22
+20091103CLE
+CLE home attack time 16.85 defend time 15.27
+WAS away attack time 15.27 defend time 16.85
+20091103DAL
+DAL home attack time 13.62 defend time 15.95
+UTA away attack time 15.95 defend time 13.62
+20091103DET
+DET home attack time 17.32 defend time 15.25
+ORL away attack time 15.25 defend time 17.32
+20091103IND
+IND home attack time 13.32 defend time 14.49
+DEN away attack time 14.49 defend time 13.32
+20091103MIA
+MIA home attack time 15.6 defend time 14.63
+PHO away attack time 14.63 defend time 15.6
+20091103OKC
+OKC home attack time 16.34 defend time 14.42
+LAL away attack time 14.42 defend time 16.34
+20091103PHI
+PHI home attack time 16.11 defend time 15.94
+BOS away attack time 15.94 defend time 16.11
+20091103POR
+POR home attack time 17.92 defend time 15.66
+ATL away attack time 15.66 defend time 17.92
+20091104GSW
+GSW home attack time 13.68 defend time 15.52
+MEM away attack time 15.52 defend time 13.68
+20091104HOU
+HOU home attack time 15.31 defend time 17.52
+LAL away attack time 17.52 defend time 15.31
+20091104MIN
+MIN home attack time 15.15 defend time 15.39
+BOS away attack time 15.39 defend time 15.15
+20091104NJN
+NJN home attack time 15.0 defend time 12.63
+DEN away attack time 12.63 defend time 15.0
+20091104NOH
+NOH home attack time 16.27 defend time 16.56
+DAL away attack time 16.56 defend time 16.27
+20091104NYK
+NYK home attack time 13.87 defend time 15.13
+IND away attack time 15.13 defend time 13.87
+20091104ORL
+ORL home attack time 14.94 defend time 13.91
+PHO away attack time 13.91 defend time 14.94
+20091104SAC
+SAC home attack time 15.55 defend time 15.17
+ATL away attack time 15.17 defend time 15.55
+20091104TOR
+TOR home attack time 14.98 defend time 17.87
+DET away attack time 17.87 defend time 14.98
+20091104WAS
+WAS home attack time 16.1 defend time 15.76
+MIA away attack time 15.76 defend time 16.1
+20091105CLE
+CLE home attack time 17.1 defend time 14.61
+CHI away attack time 14.61 defend time 17.1
+20091105UTA
+UTA home attack time 17.14 defend time 15.97
+SAS away attack time 15.97 defend time 17.14
+20091106BOS
+BOS home attack time 15.62 defend time 14.69
+PHO away attack time 14.69 defend time 15.62
+20091106CHA
+CHA home attack time 16.43 defend time 15.13
+ATL away attack time 15.13 defend time 16.43
+20091106GSW
+GSW home attack time 13.3 defend time 14.5
+LAC away attack time 14.5 defend time 13.3
+20091106HOU
+HOU home attack time 15.37 defend time 14.44
+OKC away attack time 14.44 defend time 15.37
+20091106IND
+IND home attack time 14.04 defend time 15.44
+WAS away attack time 15.44 defend time 14.04
+20091106LAL
+LAL home attack time 15.52 defend time 15.51
+MEM away attack time 15.51 defend time 15.52
+20091106MIA
+MIA home attack time 17.09 defend time 15.04
+DEN away attack time 15.04 defend time 17.09
+20091106MIN
+MIN home attack time 14.81 defend time 15.62
+MIL away attack time 15.62 defend time 14.81
+20091106NOH
+NOH home attack time 15.47 defend time 16.38
+TOR away attack time 16.38 defend time 15.47
+20091106NYK
+NYK home attack time 12.47 defend time 17.63
+CLE away attack time 17.63 defend time 12.47
+20091106ORL
+ORL home attack time 16.91 defend time 16.32
+DET away attack time 16.32 defend time 16.91
+20091106PHI
+PHI home attack time 15.15 defend time 17.5
+NJN away attack time 17.5 defend time 15.15
+20091106POR
+POR home attack time 16.43 defend time 15.83
+SAS away attack time 15.83 defend time 16.43
+20091107ATL
+ATL home attack time 14.91 defend time 14.51
+DEN away attack time 14.51 defend time 14.91
+20091107CHI
+CHI home attack time 13.83 defend time 19.63
+CHA away attack time 19.63 defend time 13.83
+20091107DAL
+DAL home attack time 14.85 defend time 16.0
+TOR away attack time 16.0 defend time 14.85
+20091107LAC
+LAC home attack time 15.35 defend time 13.72
+MEM away attack time 13.72 defend time 15.35
+20091107MIL
+MIL home attack time 15.45 defend time 13.62
+NYK away attack time 13.62 defend time 15.45
+20091107NJN
+NJN home attack time 15.6 defend time 15.53
+BOS away attack time 15.53 defend time 15.6
+20091107UTA
+UTA home attack time 14.73 defend time 16.91
+SAC away attack time 16.91 defend time 14.73
+20091108DET
+DET home attack time 18.08 defend time 15.84
+PHI away attack time 15.84 defend time 18.08
+20091108LAL
+LAL home attack time 16.39 defend time 15.91
+NOH away attack time 15.91 defend time 16.39
+20091108OKC
+OKC home attack time 15.56 defend time 16.45
+ORL away attack time 16.45 defend time 15.56
+20091108POR
+POR home attack time 15.32 defend time 15.48
+MIN away attack time 15.48 defend time 15.32
+20091108SAC
+SAC home attack time 14.74 defend time 13.67
+GSW away attack time 13.67 defend time 14.74
+20091108WAS
+WAS home attack time 14.13 defend time 14.55
+PHO away attack time 14.55 defend time 14.13
+20091109GSW
+GSW home attack time 13.0 defend time 14.87
+MIN away attack time 14.87 defend time 13.0
+20091109LAC
+LAC home attack time 15.89 defend time 16.03
+NOH away attack time 16.03 defend time 15.89
+20091109NYK
+NYK home attack time 12.93 defend time 16.75
+UTA away attack time 16.75 defend time 12.93
+20091109PHI
+PHI home attack time 15.87 defend time 15.17
+PHO away attack time 15.17 defend time 15.87
+20091109SAS
+SAS home attack time 16.76 defend time 14.57
+TOR away attack time 14.57 defend time 16.76
+20091110CHA
+CHA home attack time 16.34 defend time 15.93
+ORL away attack time 15.93 defend time 16.34
+20091110CHI
+CHI home attack time 15.01 defend time 16.71
+DEN away attack time 16.71 defend time 15.01
+20091110DAL
+DAL home attack time 15.01 defend time 15.46
+HOU away attack time 15.46 defend time 15.01
+20091110MEM
+MEM home attack time 16.73 defend time 17.21
+POR away attack time 17.21 defend time 16.73
+20091110MIA
+MIA home attack time 15.64 defend time 15.67
+WAS away attack time 15.67 defend time 15.64
+20091110SAC
+SAC home attack time 14.9 defend time 13.9
+OKC away attack time 13.9 defend time 14.9
+20091111BOS
+BOS home attack time 16.49 defend time 17.2
+UTA away attack time 17.2 defend time 16.49
+20091111DET
+DET home attack time 16.71 defend time 17.58
+CHA away attack time 17.58 defend time 16.71
+20091111HOU
+HOU home attack time 14.37 defend time 15.83
+MEM away attack time 15.83 defend time 14.37
+20091111IND
+IND home attack time 13.76 defend time 14.04
+GSW away attack time 14.04 defend time 13.76
+20091111LAC
+LAC home attack time 17.24 defend time 15.84
+OKC away attack time 15.84 defend time 17.24
+20091111MIL
+MIL home attack time 14.93 defend time 14.36
+DEN away attack time 14.36 defend time 14.93
+20091111MIN
+MIN home attack time 14.86 defend time 17.77
+POR away attack time 17.77 defend time 14.86
+20091111NJN
+NJN home attack time 15.85 defend time 16.45
+PHI away attack time 16.45 defend time 15.85
+20091111NYK
+NYK home attack time 14.02 defend time 16.63
+ATL away attack time 16.63 defend time 14.02
+20091111ORL
+ORL home attack time 14.45 defend time 17.6
+CLE away attack time 17.6 defend time 14.45
+20091111PHO
+PHO home attack time 14.7 defend time 14.54
+NOH away attack time 14.54 defend time 14.7
+20091111SAS
+SAS home attack time 15.72 defend time 14.68
+DAL away attack time 14.68 defend time 15.72
+20091111TOR
+TOR home attack time 15.45 defend time 15.69
+CHI away attack time 15.69 defend time 15.45
+20091112LAL
+LAL home attack time 13.98 defend time 14.72
+PHO away attack time 14.72 defend time 13.98
+20091112MIA
+MIA home attack time 14.45 defend time 15.34
+CLE away attack time 15.34 defend time 14.45
+20091113BOS
+BOS home attack time 15.23 defend time 17.17
+ATL away attack time 17.17 defend time 15.23
+20091113DEN
+DEN home attack time 13.56 defend time 17.61
+LAL away attack time 17.61 defend time 13.56
+20091113LAC
+LAC home attack time 16.25 defend time 16.96
+TOR away attack time 16.96 defend time 16.25
+20091113MIN
+MIN home attack time 14.17 defend time 15.07
+DAL away attack time 15.07 defend time 14.17
+20091113NOH
+NOH home attack time 14.1 defend time 18.91
+POR away attack time 18.91 defend time 14.1
+20091113NYK
+NYK home attack time 14.64 defend time 14.32
+GSW away attack time 14.32 defend time 14.64
+20091113ORL
+ORL home attack time 15.67 defend time 17.4
+NJN away attack time 17.4 defend time 15.67
+20091113PHI
+PHI home attack time 14.8 defend time 17.91
+UTA away attack time 17.91 defend time 14.8
+20091113SAC
+SAC home attack time 16.08 defend time 14.42
+HOU away attack time 14.42 defend time 16.08
+20091114ATL
+ATL home attack time 14.56 defend time 16.06
+NOH away attack time 16.06 defend time 14.56
+20091114CHA
+CHA home attack time 18.18 defend time 17.46
+POR away attack time 17.46 defend time 18.18
+20091114CHI
+CHI home attack time 15.69 defend time 15.0
+PHI away attack time 15.0 defend time 15.69
+20091114CLE
+CLE home attack time 15.79 defend time 16.26
+UTA away attack time 16.26 defend time 15.79
+20091114IND
+IND home attack time 14.63 defend time 16.32
+BOS away attack time 16.32 defend time 14.63
+20091114MEM
+MEM home attack time 15.37 defend time 13.92
+MIN away attack time 13.92 defend time 15.37
+20091114MIA
+MIA home attack time 17.79 defend time 17.94
+NJN away attack time 17.94 defend time 17.79
+20091114MIL
+MIL home attack time 15.04 defend time 13.79
+GSW away attack time 13.79 defend time 15.04
+20091114SAS
+SAS home attack time 15.27 defend time 15.57
+OKC away attack time 15.57 defend time 15.27
+20091114WAS
+WAS home attack time 15.17 defend time 16.47
+DET away attack time 16.47 defend time 15.17
+20091115DET
+DET home attack time 17.95 defend time 15.54
+DAL away attack time 15.54 defend time 17.95
+20091115LAL
+LAL home attack time 14.03 defend time 14.23
+HOU away attack time 14.23 defend time 14.03
+20091115OKC
+OKC home attack time 15.12 defend time 17.01
+LAC away attack time 17.01 defend time 15.12
+20091115PHO
+PHO home attack time 14.81 defend time 16.18
+TOR away attack time 16.18 defend time 14.81
+20091116ATL
+ATL home attack time 16.01 defend time 17.2
+POR away attack time 17.2 defend time 16.01
+20091116MIL
+MIL home attack time 15.44 defend time 16.98
+DAL away attack time 16.98 defend time 15.44
+20091116ORL
+ORL home attack time 15.31 defend time 16.13
+CHA away attack time 16.13 defend time 15.31
+20091117CLE
+CLE home attack time 15.86 defend time 13.81
+GSW away attack time 13.81 defend time 15.86
+20091117DEN
+DEN home attack time 12.58 defend time 17.22
+TOR away attack time 17.22 defend time 12.58
+20091117HOU
+HOU home attack time 15.52 defend time 14.14
+PHO away attack time 14.14 defend time 15.52
+20091117LAL
+LAL home attack time 15.64 defend time 16.01
+DET away attack time 16.01 defend time 15.64
+20091117MIA
+MIA home attack time 16.22 defend time 16.88
+OKC away attack time 16.88 defend time 16.22
+20091117NJN
+NJN home attack time 15.11 defend time 14.69
+IND away attack time 14.69 defend time 15.11
+20091117NOH
+NOH home attack time 14.82 defend time 15.75
+LAC away attack time 15.75 defend time 14.82
+20091117SAC
+SAC home attack time 15.62 defend time 14.44
+CHI away attack time 14.44 defend time 15.62
+20091118ATL
+ATL home attack time 15.61 defend time 17.3
+MIA away attack time 17.3 defend time 15.61
+20091118BOS
+BOS home attack time 15.38 defend time 14.05
+GSW away attack time 14.05 defend time 15.38
+20091118DAL
+DAL home attack time 16.36 defend time 17.0
+SAS away attack time 17.0 defend time 16.36
+20091118IND
+IND home attack time 15.42 defend time 12.56
+NYK away attack time 12.56 defend time 15.42
+20091118MEM
+MEM home attack time 15.84 defend time 15.62
+LAC away attack time 15.62 defend time 15.84
+20091118MIL
+MIL home attack time 14.84 defend time 15.82
+NJN away attack time 15.82 defend time 14.84
+20091118MIN
+MIN home attack time 14.53 defend time 16.91
+HOU away attack time 16.91 defend time 14.53
+20091118ORL
+ORL home attack time 15.01 defend time 14.88
+OKC away attack time 14.88 defend time 15.01
+20091118PHI
+PHI home attack time 15.08 defend time 17.59
+CHA away attack time 17.59 defend time 15.08
+20091118POR
+POR home attack time 15.74 defend time 17.16
+DET away attack time 17.16 defend time 15.74
+20091118UTA
+UTA home attack time 15.87 defend time 15.34
+TOR away attack time 15.34 defend time 15.87
+20091118WAS
+WAS home attack time 15.35 defend time 15.84
+CLE away attack time 15.84 defend time 15.35
+20091119LAL
+LAL home attack time 15.08 defend time 14.08
+CHI away attack time 14.08 defend time 15.08
+20091119NOH
+NOH home attack time 17.43 defend time 14.43
+PHO away attack time 14.43 defend time 17.43
+20091119SAS
+SAS home attack time 17.8 defend time 17.17
+UTA away attack time 17.17 defend time 17.8
+20091120ATL
+ATL home attack time 15.78 defend time 16.57
+HOU away attack time 16.57 defend time 15.78
+20091120BOS
+BOS home attack time 16.09 defend time 16.52
+ORL away attack time 16.52 defend time 16.09
+20091120DAL
+DAL home attack time 15.04 defend time 15.32
+SAC away attack time 15.32 defend time 15.04
+20091120GSW
+GSW home attack time 12.58 defend time 16.78
+POR away attack time 16.78 defend time 12.58
+20091120IND
+IND home attack time 13.46 defend time 17.07
+CLE away attack time 17.07 defend time 13.46
+20091120LAC
+LAC home attack time 16.85 defend time 13.97
+DEN away attack time 13.97 defend time 16.85
+20091120MIL
+MIL home attack time 17.41 defend time 15.27
+CHA away attack time 15.27 defend time 17.41
+20091120OKC
+OKC home attack time 13.82 defend time 15.76
+WAS away attack time 15.76 defend time 13.82
+20091120PHI
+PHI home attack time 14.34 defend time 17.33
+MEM away attack time 17.33 defend time 14.34
+20091120TOR
+TOR home attack time 15.13 defend time 15.2
+MIA away attack time 15.2 defend time 15.13
+20091121CLE
+CLE home attack time 16.78 defend time 15.28
+PHI away attack time 15.28 defend time 16.78
+20091121DEN
+DEN home attack time 13.71 defend time 16.13
+CHI away attack time 16.13 defend time 13.71
+20091121HOU
+HOU home attack time 14.32 defend time 15.32
+SAC away attack time 15.32 defend time 14.32
+20091121MEM
+MEM home attack time 15.1 defend time 14.65
+MIL away attack time 14.65 defend time 15.1
+20091121NJN
+NJN home attack time 15.98 defend time 14.32
+NYK away attack time 14.32 defend time 15.98
+20091121NOH
+NOH home attack time 14.84 defend time 17.67
+ATL away attack time 17.67 defend time 14.84
+20091121POR
+POR home attack time 18.34 defend time 16.25
+MIN away attack time 16.25 defend time 18.34
+20091121SAS
+SAS home attack time 16.84 defend time 14.96
+WAS away attack time 14.96 defend time 16.84
+20091121UTA
+UTA home attack time 16.03 defend time 17.76
+DET away attack time 17.76 defend time 16.03
+20091122CHA
+CHA home attack time 15.98 defend time 14.84
+IND away attack time 14.84 defend time 15.98
+20091122LAL
+LAL home attack time 15.47 defend time 14.52
+OKC away attack time 14.52 defend time 15.47
+20091122MIA
+MIA home attack time 15.74 defend time 16.04
+NOH away attack time 16.04 defend time 15.74
+20091122NYK
+NYK home attack time 14.47 defend time 16.78
+BOS away attack time 16.78 defend time 14.47
+20091122PHO
+PHO home attack time 13.34 defend time 19.1
+DET away attack time 19.1 defend time 13.34
+20091122TOR
+TOR home attack time 14.88 defend time 16.84
+ORL away attack time 16.84 defend time 14.88
+20091123LAC
+LAC home attack time 15.7 defend time 15.55
+MIN away attack time 15.55 defend time 15.7
+20091123MEM
+MEM home attack time 15.09 defend time 13.8
+SAC away attack time 13.8 defend time 15.09
+20091123POR
+POR home attack time 17.67 defend time 16.01
+CHI away attack time 16.01 defend time 17.67
+20091123SAS
+SAS home attack time 16.86 defend time 15.22
+MIL away attack time 15.22 defend time 16.86
+20091124DAL
+DAL home attack time 14.72 defend time 13.65
+GSW away attack time 13.65 defend time 14.72
+20091124DEN
+DEN home attack time 13.37 defend time 15.83
+NJN away attack time 15.83 defend time 13.37
+20091124LAL
+LAL home attack time 15.23 defend time 13.35
+NYK away attack time 13.35 defend time 15.23
+20091124TOR
+TOR home attack time 14.48 defend time 14.07
+IND away attack time 14.07 defend time 14.48
+20091124UTA
+UTA home attack time 15.56 defend time 14.55
+OKC away attack time 14.55 defend time 15.56
+20091124WAS
+WAS home attack time 14.48 defend time 15.36
+PHI away attack time 15.36 defend time 14.48
+20091125BOS
+BOS home attack time 16.64 defend time 15.12
+PHI away attack time 15.12 defend time 16.64
+20091125CHA
+CHA home attack time 16.05 defend time 14.36
+TOR away attack time 14.36 defend time 16.05
+20091125DET
+DET home attack time 16.73 defend time 18.2
+CLE away attack time 18.2 defend time 16.73
+20091125HOU
+HOU home attack time 14.81 defend time 15.95
+DAL away attack time 15.95 defend time 14.81
+20091125IND
+IND home attack time 14.38 defend time 15.98
+LAC away attack time 15.98 defend time 14.38
+20091125MIN
+MIN home attack time 14.22 defend time 14.31
+DEN away attack time 14.31 defend time 14.22
+20091125NOH
+NOH home attack time 15.11 defend time 14.5
+MIL away attack time 14.5 defend time 15.11
+20091125ORL
+ORL home attack time 15.01 defend time 16.92
+MIA away attack time 16.92 defend time 15.01
+20091125PHO
+PHO home attack time 14.33 defend time 17.16
+MEM away attack time 17.16 defend time 14.33
+20091125POR
+POR home attack time 17.91 defend time 18.08
+NJN away attack time 18.08 defend time 17.91
+20091125SAC
+SAC home attack time 14.83 defend time 14.55
+NYK away attack time 14.55 defend time 14.83
+20091125SAS
+SAS home attack time 14.27 defend time 13.2
+GSW away attack time 13.2 defend time 14.27
+20091126ATL
+ATL home attack time 15.66 defend time 17.65
+ORL away attack time 17.65 defend time 15.66
+20091126UTA
+UTA home attack time 17.13 defend time 15.36
+CHI away attack time 15.36 defend time 17.13
+20091127BOS
+BOS home attack time 16.01 defend time 14.9
+TOR away attack time 14.9 defend time 16.01
+20091127CHA
+CHA home attack time 16.45 defend time 16.14
+CLE away attack time 16.14 defend time 16.45
+20091127DEN
+DEN home attack time 14.53 defend time 14.62
+NYK away attack time 14.62 defend time 14.53
+20091127DET
+DET home attack time 19.74 defend time 14.48
+LAC away attack time 14.48 defend time 19.74
+20091127HOU
+HOU home attack time 15.49 defend time 15.91
+SAS away attack time 15.91 defend time 15.49
+20091127IND
+IND home attack time 13.18 defend time 17.85
+DAL away attack time 17.85 defend time 13.18
+20091127MIA
+MIA home attack time 16.0 defend time 16.74
+WAS away attack time 16.74 defend time 16.0
+20091127MIN
+MIN home attack time 14.56 defend time 14.02
+PHO away attack time 14.02 defend time 14.56
+20091127OKC
+OKC home attack time 15.42 defend time 16.08
+MIL away attack time 16.08 defend time 15.42
+20091127PHI
+PHI home attack time 14.5 defend time 17.31
+ATL away attack time 17.31 defend time 14.5
+20091127POR
+POR home attack time 15.75 defend time 17.87
+MEM away attack time 17.87 defend time 15.75
+20091127SAC
+SAC home attack time 14.49 defend time 14.61
+NJN away attack time 14.61 defend time 14.49
+20091128CLE
+CLE home attack time 18.46 defend time 15.53
+DAL away attack time 15.53 defend time 18.46
+20091128GSW
+GSW home attack time 12.56 defend time 15.18
+LAL away attack time 15.18 defend time 12.56
+20091128MIL
+MIL home attack time 16.17 defend time 16.25
+ORL away attack time 16.25 defend time 16.17
+20091128UTA
+UTA home attack time 16.7 defend time 16.28
+POR away attack time 16.28 defend time 16.7
+20091128WAS
+WAS home attack time 14.63 defend time 17.56
+CHA away attack time 17.56 defend time 14.63
+20091129DEN
+DEN home attack time 14.36 defend time 15.1
+MIN away attack time 15.1 defend time 14.36
+20091129DET
+DET home attack time 19.84 defend time 15.28
+ATL away attack time 15.28 defend time 19.84
+20091129LAC
+LAC home attack time 14.34 defend time 17.19
+MEM away attack time 17.19 defend time 14.34
+20091129LAL
+LAL home attack time 15.0 defend time 16.17
+NJN away attack time 16.17 defend time 15.0
+20091129MIA
+MIA home attack time 16.55 defend time 16.16
+BOS away attack time 16.16 defend time 16.55
+20091129NYK
+NYK home attack time 13.96 defend time 16.48
+ORL away attack time 16.48 defend time 13.96
+20091129OKC
+OKC home attack time 13.72 defend time 17.43
+HOU away attack time 17.43 defend time 13.72
+20091129SAC
+SAC home attack time 15.75 defend time 16.05
+NOH away attack time 16.05 defend time 15.75
+20091129SAS
+SAS home attack time 17.41 defend time 15.6
+PHI away attack time 15.6 defend time 17.41
+20091129TOR
+TOR home attack time 15.46 defend time 14.67
+PHO away attack time 14.67 defend time 15.46
+20091130DAL
+DAL home attack time 16.09 defend time 14.29
+PHI away attack time 14.29 defend time 16.09
+20091130GSW
+GSW home attack time 12.51 defend time 13.7
+IND away attack time 13.7 defend time 12.51
+20091130MIL
+MIL home attack time 16.57 defend time 15.13
+CHI away attack time 15.13 defend time 16.57
+20091130UTA
+UTA home attack time 15.57 defend time 15.45
+MEM away attack time 15.45 defend time 15.57
+20091201CHA
+CHA home attack time 16.27 defend time 16.48
+BOS away attack time 16.48 defend time 16.27
+20091201DEN
+DEN home attack time 13.14 defend time 14.18
+GSW away attack time 14.18 defend time 13.14
+20091201LAL
+LAL home attack time 14.61 defend time 15.43
+NOH away attack time 15.43 defend time 14.61
+20091201NYK
+NYK home attack time 15.87 defend time 14.3
+PHO away attack time 14.3 defend time 15.87
+20091201POR
+POR home attack time 15.87 defend time 17.08
+MIA away attack time 17.08 defend time 15.87
+20091201TOR
+TOR home attack time 14.91 defend time 15.42
+WAS away attack time 15.42 defend time 14.91
+20091202ATL
+ATL home attack time 15.22 defend time 15.27
+TOR away attack time 15.27 defend time 15.22
+20091202CHI
+CHI home attack time 15.23 defend time 18.07
+DET away attack time 18.07 defend time 15.23
+20091202CLE
+CLE home attack time 17.18 defend time 13.66
+PHO away attack time 13.66 defend time 17.18
+20091202LAC
+LAC home attack time 16.16 defend time 16.83
+HOU away attack time 16.83 defend time 16.16
+20091202MIN
+MIN home attack time 15.13 defend time 16.51
+MEM away attack time 16.51 defend time 15.13
+20091202NJN
+NJN home attack time 15.87 defend time 14.61
+DAL away attack time 14.61 defend time 15.87
+20091202OKC
+OKC home attack time 16.0 defend time 15.33
+PHI away attack time 15.33 defend time 16.0
+20091202ORL
+ORL home attack time 14.41 defend time 15.0
+NYK away attack time 15.0 defend time 14.41
+20091202SAC
+SAC home attack time 14.73 defend time 14.47
+IND away attack time 14.47 defend time 14.73
+20091202WAS
+WAS home attack time 14.77 defend time 15.77
+MIL away attack time 15.77 defend time 14.77
+20091203DEN
+DEN home attack time 15.73 defend time 16.3
+MIA away attack time 16.3 defend time 15.73
+20091203GSW
+GSW home attack time 13.46 defend time 14.43
+HOU away attack time 14.43 defend time 13.46
+20091203SAS
+SAS home attack time 16.66 defend time 16.02
+BOS away attack time 16.02 defend time 16.66
+20091204ATL
+ATL home attack time 16.5 defend time 16.54
+NYK away attack time 16.54 defend time 16.5
+20091204CLE
+CLE home attack time 18.46 defend time 16.31
+CHI away attack time 16.31 defend time 18.46
+20091204DET
+DET home attack time 16.06 defend time 14.02
+MIL away attack time 14.02 defend time 16.06
+20091204LAL
+LAL home attack time 16.62 defend time 17.33
+MIA away attack time 17.33 defend time 16.62
+20091204MEM
+MEM home attack time 16.59 defend time 15.23
+DAL away attack time 15.23 defend time 16.59
+20091204NJN
+NJN home attack time 15.03 defend time 15.53
+CHA away attack time 15.53 defend time 15.03
+20091204NOH
+NOH home attack time 15.06 defend time 16.33
+MIN away attack time 16.33 defend time 15.06
+20091204OKC
+OKC home attack time 15.16 defend time 17.23
+BOS away attack time 17.23 defend time 15.16
+20091204UTA
+UTA home attack time 17.05 defend time 12.53
+IND away attack time 12.53 defend time 17.05
+20091204WAS
+WAS home attack time 16.43 defend time 15.56
+TOR away attack time 15.56 defend time 16.43
+20091205CHA
+CHA home attack time 15.77 defend time 15.17
+PHI away attack time 15.17 defend time 15.77
+20091205CHI
+CHI home attack time 16.9 defend time 17.39
+TOR away attack time 17.39 defend time 16.9
+20091205DAL
+DAL home attack time 15.49 defend time 18.37
+ATL away attack time 18.37 defend time 15.49
+20091205GSW
+GSW home attack time 13.27 defend time 15.22
+ORL away attack time 15.22 defend time 13.27
+20091205LAC
+LAC home attack time 15.92 defend time 14.19
+IND away attack time 14.19 defend time 15.92
+20091205MIN
+MIN home attack time 14.18 defend time 16.7
+UTA away attack time 16.7 defend time 14.18
+20091205PHO
+PHO home attack time 14.91 defend time 15.94
+SAC away attack time 15.94 defend time 14.91
+20091205POR
+POR home attack time 17.55 defend time 18.14
+HOU away attack time 18.14 defend time 17.55
+20091205SAS
+SAS home attack time 16.07 defend time 14.16
+DEN away attack time 14.16 defend time 16.07
+20091206DET
+DET home attack time 17.68 defend time 15.45
+WAS away attack time 15.45 defend time 17.68
+20091206LAL
+LAL home attack time 15.6 defend time 17.08
+PHO away attack time 17.08 defend time 15.6
+20091206MIL
+MIL home attack time 13.9 defend time 16.3
+CLE away attack time 16.3 defend time 13.9
+20091206NYK
+NYK home attack time 16.32 defend time 15.37
+NJN away attack time 15.37 defend time 16.32
+20091206SAC
+SAC home attack time 16.58 defend time 16.12
+MIA away attack time 16.12 defend time 16.58
+20091207NYK
+NYK home attack time 18.38 defend time 15.61
+POR away attack time 15.61 defend time 18.38
+20091207OKC
+OKC home attack time 14.23 defend time 14.44
+GSW away attack time 14.44 defend time 14.23
+20091207PHI
+PHI home attack time 16.6 defend time 16.47
+DEN away attack time 16.47 defend time 16.6
+20091207UTA
+UTA home attack time 15.82 defend time 16.75
+SAS away attack time 16.75 defend time 15.82
+20091208BOS
+BOS home attack time 15.08 defend time 16.39
+MIL away attack time 16.39 defend time 15.08
+20091208CHA
+CHA home attack time 16.12 defend time 14.3
+DEN away attack time 14.3 defend time 16.12
+20091208CHI
+CHI home attack time 14.06 defend time 15.42
+NJN away attack time 15.42 defend time 14.06
+20091208DAL
+DAL home attack time 16.06 defend time 13.63
+PHO away attack time 13.63 defend time 16.06
+20091208LAC
+LAC home attack time 15.15 defend time 16.05
+ORL away attack time 16.05 defend time 15.15
+20091208MEM
+MEM home attack time 15.04 defend time 17.47
+CLE away attack time 17.47 defend time 15.04
+20091208NOH
+NOH home attack time 16.48 defend time 16.24
+SAC away attack time 16.24 defend time 16.48
+20091208TOR
+TOR home attack time 15.12 defend time 14.82
+MIN away attack time 14.82 defend time 15.12
+20091209ATL
+ATL home attack time 14.81 defend time 16.34
+CHI away attack time 16.34 defend time 14.81
+20091209HOU
+HOU home attack time 15.15 defend time 15.44
+CLE away attack time 15.44 defend time 15.15
+20091209IND
+IND home attack time 14.76 defend time 16.5
+POR away attack time 16.5 defend time 14.76
+20091209LAL
+LAL home attack time 14.5 defend time 16.95
+UTA away attack time 16.95 defend time 14.5
+20091209MIL
+MIL home attack time 16.45 defend time 15.4
+TOR away attack time 15.4 defend time 16.45
+20091209MIN
+MIN home attack time 16.01 defend time 16.03
+NOH away attack time 16.03 defend time 16.01
+20091209NJN
+NJN home attack time 15.65 defend time 13.7
+GSW away attack time 13.7 defend time 15.65
+20091209PHI
+PHI home attack time 16.31 defend time 18.69
+DET away attack time 18.69 defend time 16.31
+20091209SAS
+SAS home attack time 14.54 defend time 14.64
+SAC away attack time 14.64 defend time 14.54
+20091210DET
+DET home attack time 17.41 defend time 15.19
+DEN away attack time 15.19 defend time 17.41
+20091210UTA
+UTA home attack time 15.92 defend time 13.65
+ORL away attack time 13.65 defend time 15.92
+20091210WAS
+WAS home attack time 15.51 defend time 15.76
+BOS away attack time 15.76 defend time 15.51
+20091211CHI
+CHI home attack time 14.77 defend time 14.59
+GSW away attack time 14.59 defend time 14.77
+20091211CLE
+CLE home attack time 16.1 defend time 16.62
+POR away attack time 16.62 defend time 16.1
+20091211IND
+IND home attack time 13.73 defend time 15.64
+NJN away attack time 15.64 defend time 13.73
+20091211LAL
+LAL home attack time 14.94 defend time 14.74
+MIN away attack time 14.74 defend time 14.94
+20091211MEM
+MEM home attack time 16.16 defend time 15.91
+OKC away attack time 15.91 defend time 16.16
+20091211MIA
+MIA home attack time 15.71 defend time 15.65
+DAL away attack time 15.65 defend time 15.71
+20091211NOH
+NOH home attack time 15.27 defend time 15.72
+NYK away attack time 15.72 defend time 15.27
+20091211PHI
+PHI home attack time 15.13 defend time 16.38
+HOU away attack time 16.38 defend time 15.13
+20091211PHO
+PHO home attack time 14.2 defend time 15.05
+ORL away attack time 15.05 defend time 14.2
+20091211SAS
+SAS home attack time 14.97 defend time 15.43
+CHA away attack time 15.43 defend time 14.97
+20091211TOR
+TOR home attack time 15.04 defend time 17.84
+ATL away attack time 17.84 defend time 15.04
+20091212CHI
+CHI home attack time 14.21 defend time 15.18
+BOS away attack time 15.18 defend time 14.21
+20091212DAL
+DAL home attack time 16.22 defend time 17.59
+CHA away attack time 17.59 defend time 16.22
+20091212DEN
+DEN home attack time 14.85 defend time 15.18
+PHO away attack time 15.18 defend time 14.85
+20091212DET
+DET home attack time 15.65 defend time 13.94
+GSW away attack time 13.94 defend time 15.65
+20091212MIL
+MIL home attack time 15.35 defend time 17.16
+POR away attack time 17.16 defend time 15.35
+20091212SAC
+SAC home attack time 14.81 defend time 13.14
+MIN away attack time 13.14 defend time 14.81
+20091212UTA
+UTA home attack time 16.01 defend time 15.41
+LAL away attack time 15.41 defend time 16.01
+20091212WAS
+WAS home attack time 15.1 defend time 16.08
+IND away attack time 16.08 defend time 15.1
+20091213ATL
+ATL home attack time 14.41 defend time 15.0
+NJN away attack time 15.0 defend time 14.41
+20091213LAC
+LAC home attack time 15.34 defend time 16.83
+SAS away attack time 16.83 defend time 15.34
+20091213MIA
+MIA home attack time 15.61 defend time 15.68
+MEM away attack time 15.68 defend time 15.61
+20091213OKC
+OKC home attack time 14.08 defend time 17.51
+CLE away attack time 17.51 defend time 14.08
+20091213TOR
+TOR home attack time 15.74 defend time 16.56
+HOU away attack time 16.56 defend time 15.74
+20091214DAL
+DAL home attack time 15.29 defend time 16.31
+NOH away attack time 16.31 defend time 15.29
+20091214DEN
+DEN home attack time 16.31 defend time 13.82
+OKC away attack time 13.82 defend time 16.31
+20091214LAC
+LAC home attack time 15.56 defend time 14.77
+WAS away attack time 14.77 defend time 15.56
+20091214MEM
+MEM home attack time 16.29 defend time 16.14
+BOS away attack time 16.14 defend time 16.29
+20091214ORL
+ORL home attack time 14.48 defend time 16.04
+IND away attack time 16.04 defend time 14.48
+20091214PHI
+PHI home attack time 16.1 defend time 13.04
+GSW away attack time 13.04 defend time 16.1
+20091214UTA
+UTA home attack time 14.98 defend time 15.38
+MIN away attack time 15.38 defend time 14.98
+20091215CHA
+CHA home attack time 15.27 defend time 15.26
+NYK away attack time 15.26 defend time 15.27
+20091215CHI
+CHI home attack time 15.48 defend time 15.59
+LAL away attack time 15.59 defend time 15.48
+20091215CLE
+CLE home attack time 16.75 defend time 17.2
+NJN away attack time 17.2 defend time 16.75
+20091215HOU
+HOU home attack time 14.3 defend time 18.18
+DET away attack time 18.18 defend time 14.3
+20091215MIA
+MIA home attack time 15.09 defend time 14.92
+TOR away attack time 14.92 defend time 15.09
+20091215PHO
+PHO home attack time 14.89 defend time 15.96
+SAS away attack time 15.96 defend time 14.89
+20091215POR
+POR home attack time 17.78 defend time 15.91
+SAC away attack time 15.91 defend time 17.78
+20091216ATL
+ATL home attack time 15.32 defend time 15.46
+MEM away attack time 15.46 defend time 15.32
+20091216DEN
+DEN home attack time 14.62 defend time 14.4
+HOU away attack time 14.4 defend time 14.62
+20091216GSW
+GSW home attack time 13.05 defend time 16.0
+SAS away attack time 16.0 defend time 13.05
+20091216IND
+IND home attack time 14.3 defend time 15.87
+CHA away attack time 15.87 defend time 14.3
+20091216MIL
+MIL home attack time 14.28 defend time 15.42
+LAL away attack time 15.42 defend time 14.28
+20091216MIN
+MIN home attack time 14.1 defend time 14.85
+LAC away attack time 14.85 defend time 14.1
+20091216NJN
+NJN home attack time 16.7 defend time 15.75
+UTA away attack time 15.75 defend time 16.7
+20091216NOH
+NOH home attack time 15.9 defend time 18.46
+DET away attack time 18.46 defend time 15.9
+20091216OKC
+OKC home attack time 14.89 defend time 17.02
+DAL away attack time 17.02 defend time 14.89
+20091216ORL
+ORL home attack time 15.02 defend time 16.71
+TOR away attack time 16.71 defend time 15.02
+20091216PHI
+PHI home attack time 13.59 defend time 18.29
+CLE away attack time 18.29 defend time 13.59
+20091216SAC
+SAC home attack time 14.96 defend time 15.17
+WAS away attack time 15.17 defend time 14.96
+20091217CHI
+CHI home attack time 15.84 defend time 16.24
+NYK away attack time 16.24 defend time 15.84
+20091217MIA
+MIA home attack time 18.55 defend time 14.71
+ORL away attack time 14.71 defend time 18.55
+20091217POR
+POR home attack time 16.77 defend time 16.15
+PHO away attack time 16.15 defend time 16.77
+20091218ATL
+ATL home attack time 14.45 defend time 14.62
+UTA away attack time 14.62 defend time 14.45
+20091218BOS
+BOS home attack time 15.65 defend time 15.92
+PHI away attack time 15.92 defend time 15.65
+20091218CLE
+CLE home attack time 16.9 defend time 16.26
+MIL away attack time 16.26 defend time 16.9
+20091218DAL
+DAL home attack time 15.15 defend time 16.5
+HOU away attack time 16.5 defend time 15.15
+20091218GSW
+GSW home attack time 12.88 defend time 13.91
+WAS away attack time 13.91 defend time 12.88
+20091218MEM
+MEM home attack time 15.84 defend time 14.77
+IND away attack time 14.77 defend time 15.84
+20091218MIN
+MIN home attack time 13.34 defend time 13.57
+SAC away attack time 13.57 defend time 13.34
+20091218NOH
+NOH home attack time 17.47 defend time 14.48
+DEN away attack time 14.48 defend time 17.47
+20091218NYK
+NYK home attack time 16.28 defend time 16.89
+LAC away attack time 16.89 defend time 16.28
+20091218OKC
+OKC home attack time 15.14 defend time 18.17
+DET away attack time 18.17 defend time 15.14
+20091218TOR
+TOR home attack time 14.82 defend time 15.96
+NJN away attack time 15.96 defend time 14.82
+20091219CHA
+CHA home attack time 13.73 defend time 16.23
+UTA away attack time 16.23 defend time 13.73
+20091219CHI
+CHI home attack time 16.3 defend time 18.27
+ATL away attack time 18.27 defend time 16.3
+20091219HOU
+HOU home attack time 17.47 defend time 15.55
+OKC away attack time 15.55 defend time 17.47
+20091219MIL
+MIL home attack time 16.22 defend time 15.81
+SAC away attack time 15.81 defend time 16.22
+20091219NJN
+NJN home attack time 15.06 defend time 15.85
+LAL away attack time 15.85 defend time 15.06
+20091219ORL
+ORL home attack time 14.46 defend time 16.78
+POR away attack time 16.78 defend time 14.46
+20091219PHI
+PHI home attack time 15.0 defend time 17.65
+LAC away attack time 17.65 defend time 15.0
+20091219PHO
+PHO home attack time 13.8 defend time 15.31
+WAS away attack time 15.31 defend time 13.8
+20091219SAS
+SAS home attack time 15.81 defend time 16.09
+IND away attack time 16.09 defend time 15.81
+20091220BOS
+BOS home attack time 14.04 defend time 13.79
+MIN away attack time 13.79 defend time 14.04
+20091220DAL
+DAL home attack time 15.09 defend time 16.51
+CLE away attack time 16.51 defend time 15.09
+20091220DET
+DET home attack time 15.43 defend time 14.91
+LAL away attack time 14.91 defend time 15.43
+20091220MEM
+MEM home attack time 16.69 defend time 14.35
+DEN away attack time 14.35 defend time 16.69
+20091220MIA
+MIA home attack time 16.3 defend time 18.41
+POR away attack time 18.41 defend time 16.3
+20091220NYK
+NYK home attack time 14.8 defend time 16.88
+CHA away attack time 16.88 defend time 14.8
+20091220TOR
+TOR home attack time 14.01 defend time 15.12
+NOH away attack time 15.12 defend time 14.01
+20091221CHI
+CHI home attack time 14.71 defend time 16.32
+SAC away attack time 16.32 defend time 14.71
+20091221IND
+IND home attack time 13.94 defend time 15.85
+MIL away attack time 15.85 defend time 13.94
+20091221ORL
+ORL home attack time 13.56 defend time 17.7
+UTA away attack time 17.7 defend time 13.56
+20091221PHO
+PHO home attack time 13.19 defend time 16.49
+CLE away attack time 16.49 defend time 13.19
+20091221SAS
+SAS home attack time 17.13 defend time 17.2
+LAC away attack time 17.2 defend time 17.13
+20091222BOS
+BOS home attack time 15.21 defend time 16.06
+IND away attack time 16.06 defend time 15.21
+20091222CHA
+CHA home attack time 15.1 defend time 15.71
+DET away attack time 15.71 defend time 15.1
+20091222DAL
+DAL home attack time 14.25 defend time 17.46
+POR away attack time 17.46 defend time 14.25
+20091222HOU
+HOU home attack time 15.98 defend time 14.82
+LAC away attack time 14.82 defend time 15.98
+20091222LAL
+LAL home attack time 14.36 defend time 15.28
+OKC away attack time 15.28 defend time 14.36
+20091222MEM
+MEM home attack time 15.25 defend time 13.12
+GSW away attack time 13.12 defend time 15.25
+20091222MIN
+MIN home attack time 14.67 defend time 16.22
+ATL away attack time 16.22 defend time 14.67
+20091222NYK
+NYK home attack time 16.69 defend time 15.11
+CHI away attack time 15.11 defend time 16.69
+20091222WAS
+WAS home attack time 15.58 defend time 14.56
+PHI away attack time 14.56 defend time 15.58
+20091223DEN
+DEN home attack time 14.53 defend time 15.49
+ATL away attack time 15.49 defend time 14.53
+20091223DET
+DET home attack time 19.69 defend time 14.35
+TOR away attack time 14.35 defend time 19.69
+20091223MIA
+MIA home attack time 16.44 defend time 15.16
+UTA away attack time 15.16 defend time 16.44
+20091223MIL
+MIL home attack time 15.12 defend time 14.6
+WAS away attack time 14.6 defend time 15.12
+20091223NJN
+NJN home attack time 13.93 defend time 15.73
+MIN away attack time 15.73 defend time 13.93
+20091223NOH
+NOH home attack time 15.7 defend time 13.12
+GSW away attack time 13.12 defend time 15.7
+20091223ORL
+ORL home attack time 15.95 defend time 15.06
+HOU away attack time 15.06 defend time 15.95
+20091223PHO
+PHO home attack time 14.56 defend time 15.77
+OKC away attack time 15.77 defend time 14.56
+20091223SAC
+SAC home attack time 15.19 defend time 18.1
+CLE away attack time 18.1 defend time 15.19
+20091223SAS
+SAS home attack time 15.93 defend time 18.25
+POR away attack time 18.25 defend time 15.93
+20091225LAL
+LAL home attack time 14.58 defend time 15.49
+CLE away attack time 15.49 defend time 14.58
+20091225NYK
+NYK home attack time 15.47 defend time 16.2
+MIA away attack time 16.2 defend time 15.47
+20091225ORL
+ORL home attack time 14.7 defend time 15.09
+BOS away attack time 15.09 defend time 14.7
+20091225PHO
+PHO home attack time 14.52 defend time 15.98
+LAC away attack time 15.98 defend time 14.52
+20091225POR
+POR home attack time 18.58 defend time 15.27
+DEN away attack time 15.27 defend time 18.58
+20091226CHI
+CHI home attack time 15.26 defend time 14.69
+NOH away attack time 14.69 defend time 15.26
+20091226DAL
+DAL home attack time 15.04 defend time 17.41
+MEM away attack time 17.41 defend time 15.04
+20091226GSW
+GSW home attack time 13.67 defend time 13.37
+PHO away attack time 13.37 defend time 13.67
+20091226IND
+IND home attack time 14.76 defend time 15.02
+ATL away attack time 15.02 defend time 14.76
+20091226MIL
+MIL home attack time 14.61 defend time 16.12
+SAS away attack time 16.12 defend time 14.61
+20091226MIN
+MIN home attack time 15.04 defend time 12.91
+WAS away attack time 12.91 defend time 15.04
+20091226NJN
+NJN home attack time 14.83 defend time 16.71
+HOU away attack time 16.71 defend time 14.83
+20091226OKC
+OKC home attack time 15.45 defend time 15.67
+CHA away attack time 15.67 defend time 15.45
+20091226SAC
+SAC home attack time 16.36 defend time 16.37
+LAL away attack time 16.37 defend time 16.36
+20091226UTA
+UTA home attack time 14.77 defend time 16.48
+PHI away attack time 16.48 defend time 14.77
+20091227CLE
+CLE home attack time 15.32 defend time 14.69
+HOU away attack time 14.69 defend time 15.32
+20091227DEN
+DEN home attack time 13.27 defend time 16.03
+DAL away attack time 16.03 defend time 13.27
+20091227LAC
+LAC home attack time 16.94 defend time 15.44
+BOS away attack time 15.44 defend time 16.94
+20091227MIA
+MIA home attack time 15.04 defend time 14.03
+IND away attack time 14.03 defend time 15.04
+20091227NYK
+NYK home attack time 14.3 defend time 17.33
+SAS away attack time 17.33 defend time 14.3
+20091227TOR
+TOR home attack time 14.49 defend time 19.42
+DET away attack time 19.42 defend time 14.49
+20091228CHA
+CHA home attack time 16.34 defend time 13.91
+MIL away attack time 13.91 defend time 16.34
+20091228GSW
+GSW home attack time 13.5 defend time 15.17
+BOS away attack time 15.17 defend time 13.5
+20091228MEM
+MEM home attack time 15.95 defend time 14.1
+WAS away attack time 14.1 defend time 15.95
+20091228NJN
+NJN home attack time 16.28 defend time 15.65
+OKC away attack time 15.65 defend time 16.28
+20091228PHO
+PHO home attack time 14.08 defend time 15.04
+LAL away attack time 15.04 defend time 14.08
+20091228POR
+POR home attack time 17.25 defend time 16.49
+PHI away attack time 16.49 defend time 17.25
+20091228SAC
+SAC home attack time 15.24 defend time 15.6
+DEN away attack time 15.6 defend time 15.24
+20091229ATL
+ATL home attack time 14.3 defend time 17.19
+CLE away attack time 17.19 defend time 14.3
+20091229CHI
+CHI home attack time 15.02 defend time 15.6
+IND away attack time 15.6 defend time 15.02
+20091229DET
+DET home attack time 16.49 defend time 16.73
+NYK away attack time 16.73 defend time 16.49
+20091229HOU
+HOU home attack time 16.47 defend time 15.51
+NOH away attack time 15.51 defend time 16.47
+20091229LAL
+LAL home attack time 14.22 defend time 14.36
+GSW away attack time 14.36 defend time 14.22
+20091229SAS
+SAS home attack time 14.81 defend time 14.65
+MIN away attack time 14.65 defend time 14.81
+20091229WAS
+WAS home attack time 15.23 defend time 16.07
+OKC away attack time 16.07 defend time 15.23
+20091230CLE
+CLE home attack time 16.69 defend time 15.9
+ATL away attack time 15.9 defend time 16.69
+20091230IND
+IND home attack time 13.23 defend time 15.81
+MEM away attack time 15.81 defend time 13.23
+20091230MIN
+MIN home attack time 13.66 defend time 16.64
+UTA away attack time 16.64 defend time 13.66
+20091230NJN
+NJN home attack time 15.51 defend time 14.69
+NYK away attack time 14.69 defend time 15.51
+20091230NOH
+NOH home attack time 16.75 defend time 15.52
+MIA away attack time 15.52 defend time 16.75
+20091230ORL
+ORL home attack time 14.15 defend time 17.37
+MIL away attack time 17.37 defend time 14.15
+20091230PHO
+PHO home attack time 14.06 defend time 16.15
+BOS away attack time 16.15 defend time 14.06
+20091230POR
+POR home attack time 17.09 defend time 14.54
+LAC away attack time 14.54 defend time 17.09
+20091230SAC
+SAC home attack time 15.66 defend time 15.46
+PHI away attack time 15.46 defend time 15.66
+20091230TOR
+TOR home attack time 15.76 defend time 15.91
+CHA away attack time 15.91 defend time 15.76
+20091231DET
+DET home attack time 16.4 defend time 14.92
+CHI away attack time 14.92 defend time 16.4
+20091231HOU
+HOU home attack time 16.15 defend time 14.05
+DAL away attack time 14.05 defend time 16.15
+20091231LAC
+LAC home attack time 15.58 defend time 15.08
+PHI away attack time 15.08 defend time 15.58
+20091231OKC
+OKC home attack time 15.38 defend time 15.83
+UTA away attack time 15.83 defend time 15.38
+20091231SAS
+SAS home attack time 15.97 defend time 14.47
+MIA away attack time 14.47 defend time 15.97
