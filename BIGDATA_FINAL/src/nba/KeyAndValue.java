@@ -1,16 +1,18 @@
 package nba;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
+import java.util.List;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Arrays;
-import java.util.List;
+import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class KeyAndValue {
-	static File folder = new File("/Users/jingliu/Documents/Study/RealTimeBigData/raw1");
+  static File folder = new File("/Users/Tony/Desktop/NBA");
   static List<File> fileList = Arrays.asList(folder.listFiles());
 	public static void main(String[] args) throws IOException{
 		readFile(fileList);
@@ -20,8 +22,7 @@ public class KeyAndValue {
 	public static void readFile(List<File> fileList) throws IOException{
 		
 			for(int i = 0; i < fileList.size(); i++){
-				//System.out.print("\n");
-				FileReader file1=new FileReader(fileList.get(i));
+			    FileReader file1=new FileReader(fileList.get(i));
 				BufferedReader br=new BufferedReader(file1);
 				//PrintWriter output = new PrintWriter(new FileWriter("output" + i + ".txt"));
 

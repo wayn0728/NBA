@@ -34,7 +34,7 @@ public class input {
 		}
 		br_3.close();
 		
-		FileWriter File_2 = new FileWriter("2013.txt");
+		FileWriter File_2 = new FileWriter("2009.txt");
 		BufferedWriter bw = new BufferedWriter(File_2);
 		
 		File folder = new File("raw1/");
@@ -46,7 +46,7 @@ public class input {
 			if (file.isFile()) {
 				String sttr=file.getName();
 				
-				if(sttr.matches("[2][0][1][3].*[html]")){
+				if(sttr.matches("[2][0][0][9].*[html]")){
 					String str1=sttr.substring(0,8)+sttr.substring(9,12);
 					for(String x:stringList)
 						if(str1.compareTo(x)==0) {Flag=1;break;}
