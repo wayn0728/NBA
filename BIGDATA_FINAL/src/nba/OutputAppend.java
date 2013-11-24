@@ -7,9 +7,9 @@ import java.io.FileWriter;
 
 public class OutputAppend {
 	public static void main(String []args) throws Exception{ 
-	FileReader File1= new FileReader("2013.txt");
+	FileReader File1= new FileReader("result/2013.txt");
 	BufferedReader br= new BufferedReader(File1);
-	FileWriter File2 = new FileWriter("2013temp.txt");
+	FileWriter File2 = new FileWriter("result1/2013.txt");
 	BufferedWriter bw = new BufferedWriter(File2);
 	String x;
 	int i;
