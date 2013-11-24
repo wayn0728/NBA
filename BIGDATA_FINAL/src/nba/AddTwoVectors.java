@@ -181,6 +181,7 @@ public class AddTwoVectors {
 							output.print(finalResult[i] + " ");
 						}
 						output.println();
+						output.flush();
 					}
 
 				}
