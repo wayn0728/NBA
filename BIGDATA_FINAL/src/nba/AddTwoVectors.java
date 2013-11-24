@@ -89,45 +89,42 @@ public class AddTwoVectors {
 							String ele1 = mapInputResult.get(act.get(j)[0])[0];
 							String ele2 = mapInputResult.get(act.get(j)[0])[7];
 							// System.out.println(ele1);
-							if (!mapNumber.keySet().contains(ele1)
-									&& !mapNumber.keySet().contains(ele2)) {
+							if (!mapNumber.keySet().contains(ele1) && !mapNumber.keySet().contains(ele2)) {
 								String[] pac = { String.valueOf(1), act.get(j)[1] };
 								mapNumber.put(ele1, pac);
 								mapNumber.put(ele2, pac);
 								String[] result = mapInputResult.get(act.get(j)[0]);
-								result[5] = act.get(j)[1];
-								result[12] = act.get(j)[1];
+								result[5] = String.valueOf(0);
+								result[12] = String.valueOf(0);
 								// System.out.println(result[13]);
 
 								mapInputResult.put(act.get(j)[0], result);
-							} else if (mapNumber.keySet().contains(ele1)
-									&& !mapNumber.keySet().contains(ele2)) {
+							} else if (mapNumber.keySet().contains(ele1) && !mapNumber.keySet().contains(ele2)) {
 								int num = Integer.valueOf(mapNumber.get(ele1)[0]);
 								double value = Double.parseDouble(act.get(j)[1])
 										+ Double.parseDouble(mapNumber.get(ele1)[1]);
 								String[] pac = { String.valueOf(num + 1), String.valueOf(value) };
 								mapNumber.put(ele1, pac);
 								String[] result = mapInputResult.get(act.get(j)[0]);
-								result[5] = String.valueOf(Double.parseDouble(pac[1])
-										/ Double.parseDouble(pac[0]));
+								result[5] = String.valueOf ((Double.parseDouble(pac[1]) - Double.parseDouble(act.get(j)[1]))
+										/ num);
 
-								result[12] = act.get(j)[1];
+								result[12] = String.valueOf(0);
 								String[] pac1 = { String.valueOf(1), act.get(j)[1] };
 								mapNumber.put(ele2, pac1);
 
 								mapInputResult.put(act.get(j)[0], result);
-							} else if (mapNumber.keySet().contains(ele2)
-									&& !mapNumber.keySet().contains(ele1)) {
+							} else if (mapNumber.keySet().contains(ele2) && !mapNumber.keySet().contains(ele1)) {
 								int num = Integer.valueOf(mapNumber.get(ele2)[0]);
 								double value = Double.parseDouble(act.get(j)[1])
 										+ Double.parseDouble(mapNumber.get(ele2)[1]);
 								String[] pac = { String.valueOf(num + 1), String.valueOf(value) };
 								mapNumber.put(ele2, pac);
 								String[] result = mapInputResult.get(act.get(j)[0]);
-								result[12] = String.valueOf(Double.parseDouble(pac[1])
-										/ Double.parseDouble(pac[0]));
+								result[12] = String.valueOf((Double.parseDouble(pac[1]) - Double.parseDouble(act.get(j)[1]))
+										/ num);
 
-								result[5] = act.get(j)[1];
+								result[5] = String.valueOf(0);
 								String[] pac1 = { String.valueOf(1), act.get(j)[1] };
 								mapNumber.put(ele1, pac1);
 
@@ -140,8 +137,8 @@ public class AddTwoVectors {
 								String[] pac = { String.valueOf(num + 1), String.valueOf(value) };
 								mapNumber.put(ele2, pac);
 								String[] result = mapInputResult.get(act.get(j)[0]);
-								result[12] = String.valueOf(Double.parseDouble(pac[1])
-										/ Double.parseDouble(pac[0]));
+								result[12] = String.valueOf((Double.parseDouble(pac[1]) - Double.parseDouble(act.get(j)[1]))
+										/ num);
 
 								int num1 = Integer.valueOf(mapNumber.get(ele1)[0]);
 								double value1 = Double.parseDouble(act.get(j)[1])
@@ -149,8 +146,8 @@ public class AddTwoVectors {
 								String[] pac1 = { String.valueOf(num1 + 1),
 										String.valueOf(value1) };
 								mapNumber.put(ele1, pac1);
-								result[5] = String.valueOf(Double.valueOf(pac1[1])
-										/ Double.parseDouble(pac1[0]));
+								result[5] = String.valueOf((Double.valueOf(pac1[1]) - Double.parseDouble(act.get(j)[1]))
+										/ num1);
 								mapInputResult.put(act.get(j)[0], result);
 							}
 						}
@@ -176,11 +173,18 @@ public class AddTwoVectors {
 						finalResult[13] = String.valueOf(ave1);
 
 						mapInputResult.put(key, finalResult);
-						output.print(key + " ");
+						if (Double.parseDouble(finalResult[5]) != 0 && Double.parseDouble(finalResult[12]) != 0) {
+							output.print(key + " ");						
+							}
 						for (int i = 0; i < finalResult.length; i++) {
-							output.print(finalResult[i] + " ");
+							if (Double.parseDouble(finalResult[5]) != 0 && Double.parseDouble(finalResult[12]) != 0) {
+								output.print(finalResult[i] + " ");
+							}
 						}
-						output.println();
+						if (Double.parseDouble(finalResult[5]) != 0 && Double.parseDouble(finalResult[12]) != 0) {
+							output.println();					
+							}
+						
 						output.flush();
 					}
 
