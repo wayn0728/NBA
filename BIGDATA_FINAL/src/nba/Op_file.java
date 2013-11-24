@@ -9,9 +9,9 @@ import Jama.Matrix;
 
 public class Op_file {
 	public static void trainDataTransfer() throws Exception{ 
-		FileReader File1= new FileReader("result1/2013.txt");
+		FileReader File1= new FileReader("result2/2012.txt");
 		BufferedReader br= new BufferedReader(File1);
-		FileWriter File2 = new FileWriter("2013temp.txt", true);
+		FileWriter File2 = new FileWriter("2009_12.txt",true);
 		BufferedWriter bw = new BufferedWriter(File2);
 		String str;
 		int i;
@@ -27,9 +27,9 @@ public class Op_file {
 	}
 	
 	public static void testDataTransfer() throws Exception{ 
-		FileReader File1= new FileReader("result1/2013.txt");
+		FileReader File1= new FileReader("result2/2013.txt");
 		BufferedReader br= new BufferedReader(File1);
-		FileWriter File2 = new FileWriter("2013temp.txt", true);
+		FileWriter File2 = new FileWriter("2013temp.txt");
 		BufferedWriter bw = new BufferedWriter(File2);
 		String str;
 		int i;
@@ -46,6 +46,6 @@ public class Op_file {
 
 	public static void main(String []args) throws Exception{ 
 		testDataTransfer();
-///		trainDataTransfer();
+	//	trainDataTransfer();
 	}
 }
