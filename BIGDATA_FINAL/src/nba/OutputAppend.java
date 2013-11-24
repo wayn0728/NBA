@@ -14,7 +14,7 @@ public class OutputAppend {
 	String x;
 	int i;
 	while((x=br.readLine())!=null){
-		x=x.substring(17);
+		x=x.substring(16);
 		for(i=0;i<x.length();i++)
 			{if(x.charAt(i)>='A') 
 				break;}
