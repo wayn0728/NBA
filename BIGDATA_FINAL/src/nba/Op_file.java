@@ -8,7 +8,7 @@ import java.io.FileWriter;
 import Jama.Matrix;
 
 public class Op_file {
-	public static void main(String []args) throws Exception{ 
+	public static void trainDataTransfer() throws Exception{ 
 		FileReader File1= new FileReader("result1/2013.txt");
 		BufferedReader br= new BufferedReader(File1);
 		FileWriter File2 = new FileWriter("2013temp.txt", true);
@@ -24,5 +24,28 @@ public class Op_file {
 		}
 		br.close();
 		bw.close();
+	}
+	
+	public static void testDataTransfer() throws Exception{ 
+		FileReader File1= new FileReader("result1/2013.txt");
+		BufferedReader br= new BufferedReader(File1);
+		FileWriter File2 = new FileWriter("2013temp.txt", true);
+		BufferedWriter bw = new BufferedWriter(File2);
+		String str;
+		int i;
+		while((str = br.readLine()) != null){
+			String[] items = str.split(" ");
+
+			bw.write(items[0] + " " + items[1]+ " " + items[4] + " "
+					+ items[6] + " " + items[7] + " " + items[10] + " " + items[12] + "\n");
+
+		}
+		br.close();
+		bw.close();
+	}
+
+	public static void main(String []args) throws Exception{ 
+		testDataTransfer();
+///		trainDataTransfer();
 	}
 }
