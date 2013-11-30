@@ -20,11 +20,11 @@ public class VectorCalcu {
                 File folder = new File(
                                 "mid/");
                 File[] listOfFiles = folder.listFiles();
-                Map<String, String> actPace = new HashMap<String, String>();
+                Map<String, String[]> actPace = new HashMap<String, String[]>();
                 for (File file : listOfFiles) {
 
                         String sttr = file.getName();
-                        if (sttr.contains(".csv")) {
+                        if (sttr.contains("actualPace.csv")) {
                                 FileReader file1 = new FileReader(
                                                 "mid/"
                                                                 + sttr);
@@ -39,12 +39,70 @@ public class VectorCalcu {
                                 				output.println(s);
                                         String[] lines = s.split("\\s");
                                         if (lines.length == 3) {
-                                                actPace.put(lines[1], lines[2]);
+                                        	String[] actAndDay = new String[2];
+                                        	actAndDay[0] = String.valueOf(0);
+                                        	actAndDay[1] = lines[2];
+                                                actPace.put(lines[1], actAndDay);
                                                 // System.out.println(lines[1]);
                                         }
                                 }
+                                output.flush();
                         }
+                                       
                 }
+                
+                
+                for (File file : listOfFiles) {
+
+                  String sttr = file.getName();
+                  if (sttr.contains("actualDaySinceStart.csv")) {
+                          FileReader file1 = new FileReader(
+                                          "mid/"
+                                                          + sttr);
+                          BufferedReader br = new BufferedReader(file1);
+                          output = new PrintWriter(new FileWriter(
+                              "result/" + sttr));
+                          
+                          // System.out.println(sttr);
+                          String s = "";
+                          while ((s = br.readLine()) != null) {
+                                  // System.out.println(s);
+                          				output.println(s);
+                                  String[] lines = s.split("\\s");
+                                  if(actPace.get(lines[0]) != null){
+                                  String[] keyGameID = actPace.get(lines[0]);
+                                  keyGameID[0] = lines[1];
+                                          actPace.put(lines[1], keyGameID);
+                                          // System.out.println(lines[1]);
+                                  }
+                          }
+                          output.flush();
+                  }
+                                 
+          }
+                
+                for (File file : listOfFiles) {
+
+                  String sttr = file.getName();
+                  if (sttr.contains("restDay1980.csv")) {
+                          FileReader file1 = new FileReader(
+                                          "mid/"
+                                                          + sttr);
+                          BufferedReader br = new BufferedReader(file1);
+                          output = new PrintWriter(new FileWriter(
+                              "result/" + sttr));
+                          
+                          // System.out.println(sttr);
+                          String s = "";
+                          while ((s = br.readLine()) != null) {
+                                  // System.out.println(s);
+                          				output.println(s);
+                               
+                          }
+                          output.flush();
+                  }
+                                 
+          }
 
                 for (File file : listOfFiles) {
                         // Map<String, String> actPace= new HashMap<String, String>();
@@ -69,7 +127,7 @@ public class VectorCalcu {
                                          * "/Users/jingliu/Documents/Study/RealTimeBigData/ProjectInput/" +
                                          * sttr); BufferedReader br = new BufferedReader(file1);
                                          */
-                                        Map<String, Double> map = new HashMap<String, Double>(); // key: team,
+                                        Map<String, Double[]> map = new HashMap<String, Double[]>(); // key: team,
                                                                                                                                                                                                                                                                                 // value:
                                                                                                                                                                                                                                                                                 // sum of
                                                                                                                                                                                                                                                                                 // time till
@@ -119,24 +177,39 @@ public class VectorCalcu {
                                                         keys = lines[0] + " " + lines[2]; // attack team
                                                         attValues = Double.parseDouble(lines[4]); // attack time
                                                         if (map.keySet().contains(keys)) {
-                                                                attValues = attValues + map.get(keys);
-                                                                map.put(keys, attValues);
+                                                        	Double[] data = new Double[2];
+
+                                                        				data[0] = map.get(keys)[1];
+                                                                attValues = attValues + map.get(keys)[1];
+                                                                data[1] = attValues;
+                                                                map.put(keys, data);
                                                                 total = mapNumber.get(keys) + 1;
                                                                 mapNumber.put(keys, total);
                                                         } else {
-                                                                map.put(keys, attValues);
+                                                        	Double[] data = new Double[2];
+                                                        	data[0] = 0.00;
+                                                        	data[1] = attValues;
+                                     
+                                                                map.put(keys, data);
                                                                 mapNumber.put(keys, 1);
                                                         }
 
                                                         keyDef = lines[0] + " " + lines[5]; // defend team
                                                         defValue = Double.parseDouble(lines[7]); // defend time
                                                         if (map.keySet().contains(keyDef)) {
-                                                                defValue = defValue + map.get(keyDef);
-                                                                map.put(keyDef, defValue);
+                                                        	Double[] data = new Double[2];
+                                                        	data[0] = map.get(keyDef)[1];
+                                                        	
+                                                                defValue = defValue + map.get(keyDef)[1];
+                                                                data[1] = defValue;
+                                                                map.put(keyDef, data);
                                                                 total = mapNumber.get(keyDef) + 1;
                                                                 mapNumber.put(keyDef, total);
                                                         } else {
-                                                                map.put(keyDef, defValue);
+                                                        	Double[] data = new Double[2];
+                                                        	data[0] = 0.00;
+                                                        	data[1] = defValue;
+                                                                map.put(keyDef, data);
                                                                 mapNumber.put(keyDef, 1);
                                                         }
                                                 }
@@ -164,16 +237,38 @@ public class VectorCalcu {
                                                         todayAwayDef = list.get(list.size() - 1)[0] + " " + "defend"; // away
                                                                                                                                                                                                                                                                                                                 // team
                                                                                                                                                                                                                                                                                                                 // defend
-
-                                                        todayHomeAttVal = map.get(todayHomeAtt)
-                                                                        / mapNumber.get(todayHomeAtt);
-                                                        todayHomeDefVal = map.get(todayHomeDef)
-                                                                        / mapNumber.get(todayHomeDef);
-                                                        todayAwayAttVal = map.get(todayAwayAtt)
-                                                                        / mapNumber.get(todayAwayAtt);
-                                                        todayAwayDefVal = map.get(todayAwayDef)
-                                                                        / mapNumber.get(todayAwayDef);
-
+                                                        if(mapNumber.get(todayHomeAtt) != 1){
+                                                        todayHomeAttVal = map.get(todayHomeAtt)[0]
+                                                                        / (mapNumber.get(todayHomeAtt) - 1);
+                                                        }
+                                                        else if(mapNumber.get(todayHomeAtt) == 1){
+                                                        	todayHomeAttVal = 0;
+                                                        }
+                                                        
+                                                        if(mapNumber.get(todayHomeDef) != 1)
+                                                        {
+                                                        todayHomeDefVal = map.get(todayHomeDef)[0]
+                                                                        / (mapNumber.get(todayHomeDef) - 1);
+                                                        }
+                                                        else if(mapNumber.get(todayHomeDef) == 1){
+                                                        	todayHomeDefVal = 0;
+                                                        }
+                                                        
+                                                        if(mapNumber.get(todayAwayAtt) != 1){
+                                                        todayAwayAttVal = map.get(todayAwayAtt)[0]
+                                                                        / (mapNumber.get(todayAwayAtt) - 1);
+                                                        }
+                                                        else if(mapNumber.get(todayAwayAtt) == 1){
+                                                        	todayAwayAttVal = 0;
+                                                        }
+                                                        
+                                                        if(mapNumber.get(todayAwayDef) !=1 ){
+                                                        todayAwayDefVal = map.get(todayAwayDef)[0]
+                                                                        / (mapNumber.get(todayAwayDef) - 1);
+                                                        }
+                                                        else if(mapNumber.get(todayAwayDef) == 1){
+                                                        	todayAwayDefVal = 0;
+                                                        }
                                                         // if(mapAve.keySet().contains(todayHomeAtt)){
 
                                                         list.get(list.size() - 2)[1] = String.valueOf(todayHomeAttVal);
@@ -190,7 +285,7 @@ public class VectorCalcu {
                                                 }
                                         }
 
-                                        Iterator<Entry<String, Double>> iter = map.entrySet().iterator(); // calculate
+                                        Iterator<Entry<String, Double[]>> iter = map.entrySet().iterator(); // calculate
                                                                                                                                                                                                                                                                                                                 // average
                                                                                                                                                                                                                                                                                                                 // attack
                                                                                                                                                                                                                                                                                                                 // and
@@ -200,7 +295,7 @@ public class VectorCalcu {
                                                 @SuppressWarnings("rawtypes")
                                                 Map.Entry entry = (Map.Entry) iter.next();
                                                 String key = entry.getKey().toString();
-                                                double val = map.get(key);
+                                                double val = map.get(key)[1];
                                                 number = mapNumber.get(key);
                                                 average = val / number;
                                                 mapAve.put(key, average);
@@ -229,6 +324,7 @@ public class VectorCalcu {
                                                 list.get(i + 1)[4] = mapAve.get(searchHomeDef).toString();
                                                 list.get(i + 2)[3] = mapAve.get(searchAwayAtt).toString();
                                                 list.get(i + 2)[4] = mapAve.get(searchAwayDef).toString();
+                                               if(Double.parseDouble(list.get(i + 1)[1]) != 0.0 && Double.parseDouble(list.get(i + 1)[2]) != 0.0 && Double.parseDouble(list.get(i + 2)[1]) != 0.0 && Double.parseDouble(list.get(i + 2)[2]) != 0){
                                                 result.put(
                                                                 list.get(i)[0],
                                                                 list.get(i + 1)[0] + " " + list.get(i + 1)[1] + " "
@@ -236,7 +332,8 @@ public class VectorCalcu {
                                                                                 + list.get(i + 1)[4] + " " + list.get(i + 2)[0] + " "
                                                                                 + list.get(i + 2)[1] + " " + list.get(i + 2)[2] + " "
                                                                                 + list.get(i + 2)[3] + " " + list.get(i + 2)[4]);
-                                                
+                                        
+                                               }
                                                 if(list.get(i)[0] == null || "".equals(list.get(i)[0])){
                                                         System.out.println("NULL");
                                                 }
@@ -253,14 +350,14 @@ public class VectorCalcu {
                 }
         }
 
-        public void combine(Map<String, String> result, Map<String, String> act) {
+        public void combine(Map<String, String> result, Map<String, String[]> act) {
                 int count = 0;
                 List<String> removeKey = new ArrayList<String>();
                 for(String key:result.keySet()){
                         String val = result.get(key);
                         if (act.keySet().contains(key)) {
                                 //count++;
-                         output.println(key + " " + val + " " + act.get(key));
+                         output.println(key + " " + val + " " + act.get(key)[0] + " " + act.get(key)[1]);
                         } else {
                                 removeKey.add(key);
                         }
